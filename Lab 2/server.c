@@ -64,7 +64,8 @@ int main(int argc, char *argv[]) {
     }
 
     // Create and open the destination file for writing
-    dest_file = fopen(argv[4], "wb");
+    // printf(argv[4]);
+    dest_file = fopen(argv[2], "wb");
     if (!dest_file) {
         perror("Output file opening failed");
         return 1;
@@ -83,6 +84,6 @@ int main(int argc, char *argv[]) {
     close(connection_fd);
     close(socket_fd);
 
-    printf("File received and saved as %s\n", argv[4]);
+    printf("File received and saved as %s\n", argv[2]);
     return 0;
 }
