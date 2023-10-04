@@ -21,7 +21,8 @@
 #include <stdlib.h> // For exit()
 #include <time.h>
 #include <string.h>
-
+#include <fcntl.h>
+#include <unistd.h> // for read and write
 
 #define SIZE 1
 
@@ -41,16 +42,43 @@ double copyFileFunctionCall(FILE *source, FILE *destination) {
 
 // Function to copy files using system call
 double copyFileSystemCall(const char *source, const char *destination) {
-    char command[256];
-    sprintf(command, "cp %s %s", source, destination);
-    int result = system(command);
+    int source_fd, destination_fd;
+    char buffer[1024];
+    double total_bytes = 0;
 
-    if (result == -1) {
-        perror("System call failed");
+    // Open the source file in read-only mode
+    source_fd = open(source, O_RDONLY);
+    if (source_fd == -1) {
+        perror("Error opening source file");
         return -1.0;
     }
 
-    return 0.0;
+    // Open or create the destination file in write-only mode
+    destination_fd = open(destination, O_WRONLY | O_CREAT, 0666);
+    if (destination_fd == -1) {
+        perror("Error opening destination file");
+        close(source_fd);
+        return -1.0;
+    }
+
+    // Read from the source file and write to the destination file
+    ssize_t bytes_read, bytes_written;
+    while ((bytes_read = read(source_fd, buffer, sizeof(buffer))) > 0) {
+        bytes_written = write(destination_fd, buffer, bytes_read);
+        if (bytes_written != bytes_read) {
+            perror("Error writing to destination file");
+            close(source_fd);
+            close(destination_fd);
+            return -1.0;
+        }
+        total_bytes += bytes_written;
+    }
+
+    // Close both files
+    close(source_fd);
+    close(destination_fd);
+
+    return total_bytes;
 }
 
 int main() {
@@ -123,13 +151,13 @@ int main() {
 
         while (currentSize < maxFileSize) { // Loop through until we hut the max file size
             FILE *sourceFile = fopen("file3.txt", "rb");
-            for (size_t i = 0; i < currentSize; i++) {
+            size_t i;
+            for (i = 0; i < currentSize; i++) {
                 fputc('A', sourceFile);
             }
 
             // Start time measurement
             clock_t startTime = clock();
-
             double total_bytes = copyFileFunctionCall(sourceFile, destinationFile);
 
             // Stop time measurement

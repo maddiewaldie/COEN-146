@@ -1,0 +1,4139 @@
+hhistory[?1l>[?2004l
+khistory\    1  git push
+    2  ssh -l mwaldie linux.scudc.scu.edu
+    3  ssh -l mwaldie linux.scudc.scu.edu
+    4  git pull
+    5  ssh -l mwaldie linux.scudc.scu.edu
+    6  git pull
+    7  ssh -l mwaldie linux.scudc.scu.edu
+    8  ssh -l mwaldie linux.scudc.scu.edu
+    9  git pull
+   10  git add .
+   11  git commit -m "took out print statements"
+   12  git push
+   13  git pull
+   14  git add .
+   15  git commit -m "try this"
+   16  git push
+   17  git add .
+   18  git commit -m "try this"
+   19  git push
+   20  git add .
+   21  git commit -m "try this\n"
+   22  git push
+   23  git add .
+   24  git commit -m "try this"
+   25  git push
+   26  git add .
+   27  git commit 0m "try this"
+   28  git commit -m "try this"
+   29  git push
+   30  git add .
+   31  git commit -m "try this"
+   32  git push
+   33  git pull
+   34  git add .
+   35  git commit -m "try alternate search func"
+   36  git push
+   37  git add .
+   38  git commit -m "for loop search"
+   39  git push
+   40  git commit -m "for loop search"
+   41  git add .
+   42  git commit -m "for loop search"
+   43  git push
+   44  git pull
+   45  git add .
+   46  git commit -m "try this"
+   47  git push
+   48  make
+   49  ssh -l mwaldie linux.scudc.scu.edu
+   50  ssh -l mwaldie linux.scudc.scu.edu
+   51  ssh -l mwaldie linux.scudc.scu.edu
+   52  git pull
+   53  git add .
+   54  git commit -m "added project 6"
+   55  git push
+   56  git add .
+   57  git commit -m "added lab 6"
+   58  git push
+   59  git pull
+   60  git add .
+   61  git commit -m "lab 6"
+   62  git push
+   63  ssh -l mwaldie linux.scudc.scu.edu
+   64  ssh -l mwaldie linux.scudc.scu.edu
+   65  ssh -l mwaldie linux.scudc.scu.edu
+   66  git pull
+   67  cd Desktop
+   68  cd Swift\ UI\ Tutorials
+   69  ls
+   70  git remote add origin https://github.com/maddiewaldie/Swift-UI-Tutorials.git
+   71  git init
+   72  ls
+   73  git commit -m "first commit"
+   74  git add .
+   75  git commit -m "first commit"
+   76  git remote add origin https://github.com/maddiewaldie/Swift-UI-Tutorials.git
+   77  git push -u origin main
+   78  git push
+   79  git push --set-upstream origin master
+   80  cd Desktop/Swift\ UI\ Tutorials
+   81  ls
+   82  git add .
+   83  git commit -m "finished part 1"
+   84  git push
+   85  cd Desktop
+   86  git clone https://github.com/maddiewaldie/WWDC21-Challenges.git
+   87  cd Desktop/code/WWDC21-Challenges
+   88  git pull
+   89  ls
+   90  git add .
+   91  git submodule add <url> Add Rich Graphics To Your SwiftUI App
+   92  ls
+   93  cd Add\ Rich\ Graphics\ To\ Your\ SwiftUI\ App
+   94  rm -rf <Add\ Rich\ Graphics\ To\ Your\ SwiftUI\ App>/.git
+   95  ls
+   96  ll
+   97  ls -ld
+   98  ls
+   99  ls -a
+  100  rm -rf .git
+  101  ls -a
+  102  rm -rf .gitignore
+  103  ls -a
+  104  git add .
+  105  cd ..
+  106  git add .
+  107  ls
+  108  git status
+  109  git commit -m "added tutorial"
+  110  git push
+  111  cd Add\ Rich\ Graphics\ To\ Your\ SwiftUI\ App
+  112  ls -a
+  113  rm -rf .
+  114  rm -rf .DS_Store
+  115  ls
+  116  cd ..
+  117  git add .
+  118  git status 
+  119  git status 
+  120  git add .
+  121  git commit -m "1st challenge"
+  122  git push
+  123  cd Add\ Rich\ Graphics\ To\ Your\ SwiftUI\ App
+  124  git remote show origin
+  125  git remote show
+  126  ls
+  127  git status
+  128  git config --get remote.origin.url
+  129  git remote -v
+  130  git add .
+  131  git commit -m "added quiz challenge"
+  132  git push
+  133  git add . 
+  134  git commit -m "added 2 new tutorials"
+  135  cd Desktop/code/WWDC21-Challenges
+  136  git add . 
+  137  git status
+  138  git commit -m "added 2 new tutorials"
+  139  git push
+  140  git add .
+  141  git commit -m "added challenge 1"
+  142  git push
+  143  sudo vi /etc/pam.d/sudo
+  144  sudo darwinup
+  145  sudo spctl --master-disable
+  146  ls
+  147  brew install stlink
+  148  brew outdated
+  149  brew update
+  150  git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core fetch --unshallow
+  151  brew update
+  152  brew install stlink
+  153  brew bundle dump
+  154  brew install stlink
+  155  /usr/sbin/softwareupdate --install-rosetta --agree-to-license\n\n
+  156  arch -x86_64 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  157  arch -x86_64 brew install
+  158  arch -x86_64 brew install stlink
+  159  apt-get install stlink-tools
+  160  clear
+  161  st-flash write output.bin 0x8000000
+  162  cd workspace
+  163  make
+  164  make
+  165  make
+  166  cd Desktop/COEN\ 20/workspace
+  167  st-flash write output.bin 0x8000000
+  168  st-flash write output.bin 0x8000000
+  169  st-flash write output.bin 0x8000000
+  170  st-flash write output.bin 0x8000000
+  171  st-flash write output.bin 0x8000000
+  172  st-flash write output.bin 0x8000000
+  173  st-flash write output.bin 0x8000000
+  174  st-flash write output.bin
+  175  st-flash write output.bin 0x8000000
+  176  st-flash write output.bin 0x8000000
+  177  cd workspace
+  178  make
+  179  make
+  180  make
+  181  make
+  182  clear
+  183  make
+  184  clear
+  185  make
+  186  make
+  187  clear
+  188  make
+  189  make
+  190  make
+  191  make
+  192  make
+  193  make
+  194  make
+  195  make
+  196  make
+  197  make
+  198  make
+  199  make
+  200  make
+  201  clear
+  202  make
+  203  make
+  204  make
+  205  make
+  206  make
+  207  cd workspace
+  208  make
+  209  make
+  210  cd workspace
+  211  make
+  212  st-flash write output.bin 0x8000000
+  213  st-flash write output.bin 0x8000000
+  214  make
+  215  st-flash write output.bin 0x8000000
+  216  https://github.com/maddiewaldie/COEN20L.git
+  217  git clone https://github.com/maddiewaldie/COEN20L.git
+  218  ssh-keygen -t ed25519 -C "your_email@example.com"
+  219  ssh-keygen -t ed25519 -C "maddiewaldie@me.com"
+  220  eval "$(ssh-agent -s)"
+  221  open ~/.ssh/config
+  222  touch ~/.ssh/config
+  223  open ~/.ssh/config
+  224  ssh-add -K ~/.ssh/id_ed25519
+  225  pbcopy < ~/.ssh/id_ed25519.pub
+  226  git clone https://github.com/maddiewaldie/COEN20L.git
+  227  git clone https://github.com/maddiewaldie/COEN20L.git
+  228  git config --global user.name "maddiewaldie"
+  229  git config --global user.email "maddiewaldie@me.com"
+  230  git config -l
+  231  git clone https://github.com/maddiewaldie/COEN20L.git
+  232  git clone https://github.com/maddiewaldie/COEN20L.git
+  233  pbcopy < ~/.ssh/id_ed25519.pub
+  234  git clone https://github.com/maddiewaldie/COEN20L.git
+  235  git clone git@github.com:maddiewaldie/COEN20L.git
+  236  cd Desktop/COEN\ 20/COEN20L
+  237  git status
+  238  git add .
+  239  git commit -m "Labs 1, 2, & 3"
+  240  git push
+  241  cd workspace
+  242  make
+  243  st-flash write output.bin 0x8000000
+  244  make
+  245  st-flash write output.bin 0x8000000
+  246  make
+  247  st-flash write output.bin 0x8000000
+  248  cd Desktop/COEN\ 20
+  249  git status
+  250  cd COEN20L
+  251  git status
+  252  git add .
+  253  git commit -m "Lab 4"
+  254  git push
+  255  git push
+  256  git status
+  257  git push
+  258  git pull
+  259  git push
+  260  cd workspace
+  261  make
+  262  st-flash write output.bin 0x8000000
+  263  make
+  264  make
+  265  make
+  266  make
+  267  make
+  268  make
+  269  make
+  270  make
+  271  st-flash write output.bin 0x8000000
+  272  make
+  273  st-flash write output.bin 0x8000000
+  274  make
+  275  st-flash write output.bin 0x8000000
+  276  make
+  277  st-flash write output.bin 0x8000000
+  278  cd Desktop/COEN\ 20/COEN20L
+  279  git status
+  280  cd Desktop/COEN\ 20/COEN20L
+  281  git add .
+  282  git commit -m "Lab 5"
+  283  git push
+  284  git pull
+  285  git add .
+  286  cd COEN20L
+  287  git add .
+  288  git commit -m "Lab 5"
+  289  git push
+  290  cd workspace
+  291  make
+  292  xcode-select --install
+  293  make
+  294  make
+  295  cd workspace
+  296  make
+  297  xcode-select --install
+  298  cd Desktop/COEN\ 20/workspace
+  299  make
+  300  st-flash write output.bin 0x8000000
+  301  cd workspace
+  302  make
+  303  st-flash write output.bin 0x8000000
+  304  cd workspace
+  305  make
+  306  make
+  307  cd workspace
+  308  make
+  309  st-flash write output.bin 0x8000000
+  310  make
+  311  st-flash write output.bin 0x8000000
+  312  cd ..
+  313  cd COEN20L
+  314  git status
+  315  git add .
+  316  git status
+  317  git commit -m "Added labs 6 & 7"
+  318  git push
+  319  cd ..
+  320  cd workspace
+  321  make
+  322  st-flash write output.bin 0x8000000
+  323  make
+  324  make
+  325  make
+  326  make
+  327  make
+  328  st-flash write output.bin 0x8000000
+  329  st-flash write output.bin 0x8000000
+  330  make
+  331  make
+  332  st-flash write output.bin 0x8000000
+  333  make
+  334  st-flash write output.bin 0x8000000
+  335  make
+  336  st-flash write output.bin 0x8000000
+  337  make
+  338  st-flash write output.bin 0x8000000
+  339  make
+  340  st-flash write output.bin 0x8000000
+  341  make
+  342  st-flash write output.bin 0x8000000
+  343  make
+  344  st-flash write output.bin 0x8000000
+  345  make
+  346  make
+  347  make
+  348  make
+  349  make
+  350  make
+  351  st-flash write output.bin 0x8000000
+  352  make
+  353  st-flash write output.bin 0x8000000
+  354  make
+  355  st-flash write output.bin 0x8000000
+  356  make
+  357  st-flash write output.bin 0x8000000
+  358  make
+  359  st-flash write output.bin 0x8000000
+  360  st-flash write output.bin 0x8000000
+  361  make
+  362  st-flash write output.bin 0x8000000
+  363  make
+  364  st-flash write output.bin 0x8000000
+  365  make
+  366  st-flash write output.bin 0x8000000
+  367  make
+  368  st-flash write output.bin 0x8000000
+  369  make
+  370  st-flash write output.bin 0x8000000
+  371  st-flash write output.bin 0x8000000
+  372  make
+  373  make
+  374  st-flash write output.bin 0x8000000
+  375  make
+  376  st-flash write output.bin 0x8000000
+  377  make
+  378  st-flash write output.bin 0x8000000
+  379  make
+  380  st-flash write output.bin 0x8000000
+  381  make
+  382  st-flash write output.bin 0x8000000
+  383  st-flash write output.bin 0x8000000
+  384  make
+  385  st-flash write output.bin 0x8000000
+  386  st-flash write output.bin 0x8000000
+  387  make
+  388  st-flash write output.bin 0x8000000
+  389  make
+  390  st-flash write output.bin 0x8000000
+  391  make
+  392  st-flash write output.bin 0x8000000
+  393  st-flash write output.bin 0x8000000
+  394  make
+  395  st-flash write output.bin 0x8000000
+  396  cd ..
+  397  cd COEN20L
+  398  git status
+  399  git add .
+  400  git commit -m "added lab 8"
+  401  git push
+  402  cd ..
+  403  cd workspace
+  404  make
+  405  st-flash write output.bin 0x8000000
+  406  make
+  407  st-flash write output.bin 0x8000000
+  408  make
+  409  st-flash write output.bin 0x8000000
+  410  make
+  411  st-flash write output.bin 0x8000000
+  412  make
+  413  st-flash write output.bin 0x8000000
+  414  make
+  415  st-flash write output.bin 0x8000000
+  416  make
+  417  st-flash write output.bin 0x8000000
+  418  make
+  419  st-flash write output.bin 0x8000000
+  420  cd ..
+  421  cd COEN20L
+  422  git status
+  423  git add .
+  424  git commit -m "added lab 9"
+  425  git push
+  426  cd ..
+  427  cd workspace
+  428  git sttaus
+  429  git status
+  430  clear
+  431  make
+  432  st-flash write output.bin 0x8000000
+  433  st-flash write output.bin 0x8000000
+  434  make
+  435  st-flash write output.bin 0x8000000
+  436  make
+  437  st-flash write output.bin 0x8000000
+  438  cd ..
+  439  cd COEN20L
+  440  git status
+  441  git add .
+  442  git commit -m "Fixed Lab 5"
+  443  git push
+  444  cd ..
+  445  cd workspace
+  446  make
+  447  st-flash write output.bin 0x8000000
+  448  st-flash write output.bin 0x8000000
+  449  ssh mwaldie@mac.dc.engr.scu.edu
+  450  ssh maddiewaldie@linux.dc.engr.scu.edu
+  451  ssh mwaldie@linux.dc.engr.scu.edu
+  452  touch test.txt
+  453  vim test.
+  454  g++ test.cpp -Wall -Werror -o test
+  455  g++ test.cpp -Wall -Werror -o test
+  456  g++ test.cpp -Wall -Werror -o test
+  457  g++ test.cpp -Wall -Werror -o test
+  458  clear
+  459  g++ test.cpp -Wall -Werror -o test
+  460  clear
+  461  g++ test.cpp -Wall -Werror -o test
+  462  g++ test.cpp -Wall -Werror -o test
+  463  ./test
+  464  clear
+  465  g++ test.cpp -Wall -Werror -o test
+  466  ./test
+  467  clear
+  468  g++ test.cpp -Wall -Werror -o test
+  469  ./test
+  470  g++ test.cpp -Wall -Werror -o test
+  471  ./test
+  472  g++ test.cpp -Wall -Werror -o test
+  473  g++ test.cpp -Wall -Werror -o test
+  474  ./test
+  475  g++ test.cpp -Wall -Werror -o test
+  476  ./test
+  477  clear
+  478  g++ test.cpp -Wall -Werror -o test
+  479  ./test
+  480  g++ test.cpp -Wall -Werror -o test
+  481  ./test
+  482  clear
+  483  g++ test.cpp -Wall -Werror -o test
+  484  ./test
+  485  g++ test.cpp -Wall -Werror -o test
+  486  ./test
+  487  ./test
+  488  ./test
+  489  touch Gettysburg.txt
+  490  vim Gettysburg.txt
+  491  ./test Gettysburg.txt
+  492  g++ test.cpp -Wall -Werror -o test
+  493  ./test Gettysburg.txt
+  494  g++ test.cpp -Wall -Werror -o test
+  495  g++ test.cpp -Wall -Werror -o test
+  496  g++ test.cpp -Wall -Werror -o test
+  497  ./test Gettysburg.txt
+  498  ssh mwaldie@linux.dc.engr.scu.edu
+  499  g++ demoPart3.cpp -Wall -Werror -o demoPart3
+  500  ./demoPart3 Gettysburg.txt
+  501  cd Desktop
+  502  ls
+  503  git clone https://github.com/maddiewaldie/COEN-79.git
+  504  git status
+  505  cd COEN-79
+  506  git status
+  507  git add .
+  508  git status
+  509  git commit -m "finished lab 1; started lab 2"
+  510  git push
+  511  ls
+  512  cd Lab-2
+  513  cd statistician
+  514  g++ main.cpp -Wall -Werror -o main
+  515  g++ statistician.cpp -Wall -Werror -o statistician
+  516  ls
+  517  g++ main.cpp -Wall -Werror -o main -v
+  518  -v
+  519  git status
+  520  git add .
+  521  git commit -m "statistician"
+  522  git push
+  523  cd Desktop/COEN-79
+  524  ls
+  525  git status
+  526  git add .
+  527  git commit -m "added lab 2"
+  528  git push
+  529  ssh mwaldie@linux.dc.engr.scu.edu
+  530  ssh mwaldie@linux.dc.engr.scu.edu
+  531  git status
+  532  git push
+  533  scp Desktop/expected_output_rand.txt mwaldie@linux.dc.engr.scu.edu:DCNFS/users/student/mwaldie/COEN-79/Lab-2/random_gen
+  534  ssh mwaldie@linux.dc.engr.scu.edu
+  535  cd Desktop/COEN-79
+  536  git pull
+  537  git pull
+  538  ssh mwaldie@linux.dc.engr.scu.edu
+  539  cd Lab-3
+  540  g++ official_seq_test.cpp sequence1.cpp -Wall -Werror -o official_seq_test -v
+  541  g++ official_seq_test.cpp sequence1.cpp -Wall -Werror -o official_seq_test -v
+  542  ls
+  543  ./official_seq_test
+  544  clear
+  545  g++ official_seq_test.cpp sequence1.cpp -Wall -Werror -o official_seq_test -v
+  546  ./official_seq_test
+  547  ./official_seq_test
+  548  ./official_seq_test
+  549  g++ official_seq_test.cpp sequence1.cpp -Wall -Werror -o official_seq_test -v
+  550  git status
+  551  cd ..
+  552  git status
+  553  git add .
+  554  git commit -m "added lab 3"
+  555  git push
+  556  ssh mwaldie@linux.dc.engr.scu.edu
+  557  g++ official_seq_test.cpp sequence1.cpp -Wall -Werror -o official_seq_test -v
+  558  cd Lab-3
+  559  g++ official_seq_test.cpp sequence1.cpp -Wall -Werror -o official_seq_test -v
+  560  ./official_seq_test
+  561  ssh mwaldie@linux.dc.engr.scu.edu
+  562  git status
+  563  git add .
+  564  git commit -m "added tester to lab 3\n"
+  565  git push
+  566  git pull
+  567  git push
+  568  git pull
+  569  git add .
+  570  git commit -m "tried flipping ++'s"
+  571  git push
+  572  git commit -m "nevermind\n"
+  573  git push
+  574  git add .
+  575  git commit -m "nevermind"
+  576  git push
+  577  git status
+  578  git add .
+  579  git commit -m "try this\n"
+  580  git push
+  581  ssh mwaldie@linux.dc.engr.scu.edu
+  582  git add .
+  583  git commit -m "fixed operator+= to be using copy"
+  584  git push
+  585  git pull
+  586  git push
+  587  ssh mwaldie@linux.dc.engr.scu.edu
+  588  git pull
+  589  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  590  git status
+  591  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  592  git status
+  593  git add .
+  594  git commit -m "tried to make operator+= a nonmember?"
+  595  git push
+  596  ssh mwaldie@linux.dc.engr.scu.edu
+  597  ta
+  598  ssh mwaldie@linux.dc.engr.scu.edu
+  599  ssh mwaldie@linux.dc.engr.scu.edu
+  600  git pull
+  601  git status
+  602  git add .
+  603  git commit -m "made both nonmember functions"
+  604  git push
+  605  git commit -m "made both nonmember functions"
+  606  git add .
+  607  git commit -m "made both nonmember functions"
+  608  git push
+  609  git status
+  610  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  611  ./ta_tester
+  612  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  613  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  614  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  615  ./ta_tester
+  616  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  617  ./ta_tester
+  618  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  619  ./ta_tester
+  620  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  621  ./ta_tester
+  622  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  623  ./ta_tester
+  624  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  625  ./ta_tester
+  626  rm out.txt
+  627  ./ta_tester >> out.txt
+  628  diff out.txt expected_output.txt
+  629  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  630  ./ta_tester
+  631  ls
+  632  rm out.txt
+  633  ./ta_tester >> out.txt
+  634  diff out.txt expected_output.txt
+  635  g++ ta_tester.cpp sequence1.cpp -Wall -Werror -o ta_tester -v
+  636  ./ta_tester
+  637  clear
+  638  git status
+  639  git add .
+  640  git commit -m "FINALLY GOT LAB 3 WORKING"
+  641  git push
+  642  git pull
+  643  git add .
+  644  git commit -m "finished keyed_bag"
+  645  git push
+  646  git status
+  647  git add .
+  648  git status
+  649  cd ..
+  650  git status
+  651  git add .
+  652  git status
+  653  git commit -m "added lab 4"
+  654  git push
+  655  git pull
+  656  git status
+  657  git add .
+  658  git status
+  659  git commit -m "lab 4 tried poly"
+  660  git push
+  661  git pull
+  662  git add .
+  663  git sttaus
+  664  git status
+  665  git commit -m "fixed uint vs int"
+  666  git pusl
+  667  git push
+  668  git pull
+  669  git add .
+  670  git commit -m "try this"
+  671  git push
+  672  git pull
+  673  git add
+  674  git status
+  675  git add .
+  676  git status
+  677  git commit -m "try this\n"
+  678  git push
+  679  git status
+  680  git pull
+  681  git add .
+  682  git commit -m "maybe fixed -" 
+  683  git push
+  684  git pull
+  685  ssh mwaldie@linux.dc.engr.scu.edu
+  686  ssh mwaldie@linux.dc.engr.scu.edu
+  687  ssh mwaldie@linux.dc.engr.scu.edu
+  688  ssh mwaldie@linux.dc.engr.scu.edu
+  689  ssh mwaldie@linux.dc.engr.scu.edu
+  690  git pull
+  691  ssh mwaldie@linux.dc.engr.scu.edu
+  692  ssh mwaldie@linux.dc.engr.scu.edu
+  693  cd Desktop/COEN-79
+  694  git pull
+  695  ssh mwaldie@linux.dc.engr.scu.edu
+  696  cd Desktop/C
+  697  cd Desktop/COEN-79
+  698  git pull
+  699  ls
+  700  cd Lab-4
+  701  cd poly
+  702  ls
+  703  diff out.txt poly
+  704  diff out.txt poly_out.txt
+  705  cd Desktop
+  706  cd Desktop
+  707  git clone https://github.com/maddiewaldie/ACMW-iOS-App-Dev-Workshop-Calculator.git
+  708  git add .
+  709  git status
+  710  cd ACMW-iOS-App-Dev-Workshop-Calculator
+  711  git add .
+  712  git status
+  713  git commit -m "initial commit"
+  714  git push
+  715  cd
+  716  cd Desktop
+  717  git clone https://github.com/maddiewaldie/ACMW-iOS-App-Dev-Workshop-Buttons.git
+  718  cd A
+  719  cd ACMW-iOS-App-Dev-Workshop-Buttons
+  720  git add.
+  721  git add . 
+  722  git status
+  723  git commit -m "initial commit"
+  724  git push
+  725  cd Desktop/Code/ACMW-iOS-App-Dev-Workshop-Buttons
+  726  git status
+  727  git add .
+  728  git commit -m "added slides to repo"
+  729  git push
+  730  git status
+  731  git add .
+  732  git status
+  733  git commit -m "finished lab 5???"
+  734  git push
+  735  ssh mwaldie@linux.dc.engr.scu.edu
+  736  git pull
+  737  git add .
+  738  git commit -m "try this"
+  739  git push
+  740  git pull
+  741  git add .
+  742  git commit -m "try this"
+  743  git push
+  744  git add .
+  745  git commit -m "test"
+  746  git push
+  747  git pull
+  748  git add .
+  749  git commit -m "try"
+  750  git push
+  751  git add .
+  752  git commit -m "try"
+  753  git push
+  754  git pull
+  755  ssh mwaldie@linux.dc.engr.scu.edu
+  756  ssh mwaldie@linux.dc.engr.scu.edu
+  757  git add .
+  758  git commit -m "try this"
+  759  git push
+  760  ssh mwaldie@linux.dc.engr.scu.edu
+  761  ssh mwaldie@linux.dc.engr.scu.edu
+  762  cd Desktop/COEN-79
+  763  git pull
+  764  cd Desktop/COEN-79
+  765  git pull
+  766  ssh mwaldie@linux.dc.engr.scu.edu
+  767  git add .
+  768  git commit -m "commented node.cpp"
+  769  git push
+  770  ssh mwaldie@linux.dc.engr.scu.edu
+  771  ssh mwaldie@linux.dc.engr.scu.edu
+  772  git status
+  773  git pull
+  774  git add .
+  775  git commit -m "maybe fixed?"
+  776  git push
+  777  git pull
+  778  git add .
+  779  git commit -m "try this"
+  780  git push
+  781  git add .
+  782  git commit -m "try this"
+  783  git push
+  784  git add .
+  785  git commit -m "try"
+  786  git push
+  787  git add .
+  788  git commit -m "try"
+  789  git push
+  790  git add .
+  791  git commit -m "try"
+  792  git push
+  793  git add .
+  794  git commit -m "try this"
+  795  git push
+  796  git pull
+  797  git push
+  798  git add .
+  799  git commit -m "try this"
+  800  git push
+  801  git add .
+  802  git commit -m "try this?\n"
+  803  git push
+  804  git add .
+  805  git commit -m "try"
+  806  git push
+  807  git pull
+  808  git add .
+  809  git commit -m "commented all of lab 6"
+  810  git push
+  811  ssh mwaldie@linux.dc.engr.scu.edu
+  812  ssh mwaldie@linux.dc.engr.scu.edu
+  813  ssh mwaldie@linux.dc.engr.scu.edu
+  814  cd Desktop/COEN-79
+  815  git pull
+  816  git add .
+  817  git commit -m "maybe fixed?"
+  818  git push
+  819  ssh mwaldie@linux.dc.engr.scu.edu
+  820  git pull
+  821  git add .
+  822  git commit -m "fixed it & commented it\n"
+  823  git push
+  824  ls
+  825  cd Lab-6
+  826  rm out_n.txt
+  827  g++ node_test.cpp node.cpp -Wall -Werror -o node_tester
+  828  ./node_tester >> out_n.txt
+  829  diff out_n.txt node_out.txt
+  830  ssh mwaldie@linux.dc.engr.scu.edu
+  831  cd ..
+  832  git add .
+  833  git commit -m "adding lab 7"
+  834  git push
+  835  git pull
+  836  cd Desktop/COEN-79/Lab-7
+  837  ls
+  838  diff out.txt expected_output-2.txt
+  839  cd Desktop/COEN-79/Lab-7
+  840  ls
+  841  diff out.txt expected_output-2.txt
+  842  git add .
+  843  git commit -m "added comments"
+  844  git push
+  845  ssh mwaldie@linux.dc.engr.scu.edu
+  846  ping
+  847  speedtest
+  848  sudo apt install speedtest-cli
+  849  sudo pip3 install speedtest-cli
+  850  speedtest
+  851  speedtest-cli
+  852  pip speedtest
+  853  speedtest-cli -h
+  854  pip install speedtest-cli
+  855  speedtest-cli
+  856  ping -c google.com
+  857  ping -c www.google.com
+  858  ping -c 4 google.com
+  859  python
+  860  cd Desktop
+  861  ls
+  862  ./speed.py
+  863  cd Desktop
+  864  python speed.py
+  865  python speed.py
+  866  python speed.py
+  867  python speed.py
+  868  speedtest -h
+  869  speedtest
+  870  clear
+  871  python speed.py
+  872  clear
+  873  python speed.py
+  874  python speed.py
+  875  clear
+  876  sudo apt install speedtest-cli\nspeedtest-cli
+  877  /bin/bash speedtest.sh
+  878  cd Desktop
+  879  /bin/bash speedtest.sh
+  880  cd Desktop
+  881  python SpeedGraph.py
+  882  pip install numpy
+  883  python3 SpeedGraph.py
+  884  python3 SpeedGraph.py
+  885  python3 SpeedGraph.py
+  886  clear
+  887  speedtest
+  888  ping -c 4 google.com
+  889  speedtest
+  890  ping -c 100 google.com
+  891  ping -c 100 google.com >> out.txt
+  892  ping -h
+  893  ping -c 100 google.com >> out.txt-n 100
+  894  ping -c 100 google.com -n 100
+  895  ping -c 100 -n 100 google.com
+  896  clear
+  897  ping -h
+  898  ping -c 100 google.com >> feb-23-data.txt
+  899  ls
+  900  cd Desktop
+  901  python3 dataExtract.py feb-23-data.txt 2/23/22 8:00
+  902  python3 dataExtract.py feb-23-data.txt 2/23/22 8:00
+  903  python3 dataExtract.py feb-23-data.txt 2/23/22 8:00
+  904  python3 dataExtract.py feb-23-data 2/23/22 8:00
+  905  python3 dataExtract.py feb-23-data 2/23/22 8:00
+  906  python3 dataExtract.py feb-23-data 2/23/22 8:00
+  907  python3 dataExtract.py feb-23-data 2/23/22 8:00
+  908  python3 dataExtract.py feb-23-data 2/23/22 8:00
+  909  python3 dataExtract.py feb-23-data 2/23/22 8:00
+  910  python3 dataExtract.py feb-23-data 2/23/22 8:00
+  911  python3 dataExtract.py feb-23-data 2/23/22 8:00
+  912  python3 dataExtract.py feb-23-data 2/23/22 8:00
+  913  ssh mwaldie@linux.dc.engr.scu.edu
+  914  git add .
+  915  git commit -m "lab 8"
+  916  git push
+  917  git pull
+  918  git add .
+  919  git commit -m "lab 8"
+  920  git push
+  921  git pull
+  922  git add .
+  923  git commit -m "added comments to lab 8"
+  924  git push
+  925  cd Desktop
+  926  cd Stats\ Project
+  927  bash speedtest.sh
+  928  clear
+  929  bash speedtest.sh
+  930  bash speedtest.sh
+  931  cd Desktop/Stats\ Project
+  932  bash speedtest.sh
+  933  ls
+  934  bash speedtest.sh
+  935  bash speedtest.sh
+  936  bash speedtest.sh
+  937  bash speedtest.sh
+  938  cd Desktop/S
+  939  cd Desktop/Stats\ Project
+  940  bash speedtest.sh
+  941  ping  google.com -t
+  942  ping google.com
+  943  ping -c 4google.com
+  944  ping -c 4 google.com
+  945  ping -c 1 google.com
+  946  bash speedtest.sh
+  947  cd Desktop/Stats\ Project
+  948  bash speedtest.sh
+  949  bash speedtest.sh
+  950  bash speedtest.sh
+  951  bash speedtest.sh
+  952  bash speedtest.sh
+  953  bash speedtest.sh
+  954  python3 dataExtract.py log250222 2/25/22
+  955  python3 dataExtract.py log250222 2/25/22
+  956  python3 dataExtract.py log250222 2/25/22
+  957  python3 dataExtract.py log250222 2/25/22
+  958  bash speedtest.sh
+  959  bash speedtest.sh
+  960  bash speedtest.sh
+  961  bash speedtest.sh
+  962  cd Desktop/Stats\ Project
+  963  bash speedtest.sh
+  964  bash speedtest.sh
+  965  bash speedtest.sh
+  966  cd Desktop/Stats\ Project
+  967  bash speedtest.sh
+  968  cd Desktop/Stats\ Project
+  969  cd Desktop/Stats\ Project
+  970  bash speedtest.sh
+  971  bash speedtest.sh
+  972  bash speedtest.sh
+  973  ssh mwaldie@linux.dc.engr.scu.edu
+  974  cd Desktop/Stats\ Project
+  975  ls
+  976  bash speedtest.sh
+  977  bash speedtest.sh
+  978  bash speedtest.sh
+  979  ssh mwaldie@linux.dc.engr.scu.edu
+  980  git add .
+  981  git commit -m "added lab 9"
+  982  git push
+  983  git add .
+  984  git commit -m "added lab 9"
+  985  git push
+  986  git add .
+  987  git commit -m "try this for lab 9"
+  988  git push
+  989  git add .
+  990  git commit -m "try this for lab 9"
+  991  git push
+  992  git pull
+  993  git pull
+  994  sudo reboot
+  995  .zshrc
+  996  ./zshrc
+  997  vim .zshrc
+  998  clear
+  999  ls
+ 1000  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+ 1001  ls
+ 1002  clear
+ 1003  ls
+ 1004  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+ 1005  ~/.zshrc
+ 1006  ls
+ 1007  brew install romkatv/powerlevel10k/powerlevel10k\necho "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
+ 1008  touch .hushlogin
+ 1009  /usr/sbin/softwareupdate --install-rosetta --agree-to-license
+ 1010  arch -x86_64 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+ 1011  arch -x86_64 /usr/local/homebrew/bin/brew install romkatv/powerlevel10k/powerlevel10k
+ 1012  echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc\n
+ 1013  open /.zshrc
+ 1014  open .zshrc
+ 1015  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k\necho 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+ 1016  open .zshrc
+ 1017  git status
+ 1018  ls
+ 1019  gcc sort.c 
+ 1020  ./sort.c
+ 1021  ls
+ 1022  ./a.out
+ 1023  cd Homework\ 1
+ 1024  fpc sort.p
+ 1025  brew install fpc
+ 1026  arch -x86_64 brew install fpc
+ 1027  fpc sort.p
+ 1028  ./sort
+ 1029  ./a.out
+ 1030  gcc sort.c 
+ 1031  ./a.out
+ 1032  clear
+ 1033  fpc tree.p
+ 1034  ./tree
+ 1035  clear
+ 1036  gcc tree.c
+ 1037  cd Homework\ 1
+ 1038  gcc tree.c
+ 1039  ./tree
+ 1040  clear
+ 1041  ./a.out
+ 1042  clear
+ 1043  ./tree
+ 1044  fpc tree.p
+ 1045  ./tree
+ 1046  clear
+ 1047  ./tree
+ 1048  clear
+ 1049  npm install @mui/material @emotion/react @emotion/styled\n
+ 1050  npx create-react-app my-app
+ 1051  npm install -g npm@8.19.2
+ 1052  cd my-app
+ 1053  npm start
+ 1054  cd ..
+ 1055  npm install @mui/material @emotion/react @emotion/styled\n
+ 1056  npm install @mui/material @mui/styled-engine-sc styled-components\n
+ 1057  npm install @fontsource/roboto\n
+ 1058  npm install @mui/icons-material\n
+ 1059  git clone https://github.com/maddiewaldie/COEN-174-Project.git
+ 1060  curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app-with-styled-components\ncd create-react-app-with-styled-components
+ 1061  npm install\nnpm start
+ 1062  git status
+ 1063  git checkout -b frontend/initial-commit
+ 1064  git status
+ 1065  git add .
+ 1066  git status
+ 1067  git commit -m "Initial commit for frontend, with basic React code for a web app"
+ 1068  git push
+ 1069  git push --set-upstream origin frontend/initial-commit
+ 1070  cd ..
+ 1071  cd COEN-174-Project
+ 1072  npm start
+ 1073  npm run
+ 1074  npm install
+ 1075  npm start
+ 1076  npm run build
+ 1077  npm install
+ 1078  npm run
+ 1079  npm start
+ 1080  cd ..
+ 1081  cd create-react-app-with-styled-components
+ 1082  npm run
+ 1083  npm start
+ 1084  npm install
+ 1085  cd frontend
+ 1086  npm install
+ 1087  npm start
+ 1088  git status
+ 1089  git add .
+ 1090  git commit -m "Fixed name of project so it will run with 'npm start'"
+ 1091  git push
+ 1092  npm start
+ 1093  git status
+ 1094  git add .
+ 1095  git status
+ 1096  git commit -m "Created initial structure of frontend"
+ 1097  git push
+ 1098  git reset —soft HEAD~3 
+ 1099  git reset --soft HEAD~3
+ 1100  git status
+ 1101  git add .
+ 1102  git commit -m "Initial frontend structure"
+ 1103  git push -f
+ 1104  npm start
+ 1105  touch .gitignore
+ 1106  git reset --soft HEAD~1
+ 1107  git rm --cached FILENAME
+ 1108  git status
+ 1109  git rm --cached FILENAME
+ 1110  cd ..
+ 1111  git rm --cached frontend/node_modules/
+ 1112  git status
+ 1113  git add .
+ 1114  git rm --cached frontend/node_modules/
+ 1115  git rm --cached frontend/node_modules/ -r
+ 1116  git status
+ 1117  git commit -m "Initial frontend structure"
+ 1118  git push -f
+ 1119  clear
+ 1120  cd frontend
+ 1121  npm start
+ 1122  git checkout main
+ 1123  git pull
+ 1124  npm start
+ 1125  git status
+ 1126  cd src
+ 1127  npm start
+ 1128  cd ..
+ 1129  npm start
+ 1130  cd frontend
+ 1131  npm start
+ 1132  npm install -S react-router-dom
+ 1133  npm start
+ 1134  git checkout -b frontend/loginpage
+ 1135  git status
+ 1136  git add .
+ 1137  git status
+ 1138  git commit -m "Fixed typo for path between sign up & log in pages"
+ 1139  git push
+ 1140  git push --set-upstream origin frontend/loginpage
+ 1141  npm start
+ 1142  clear
+ 1143  npm start
+ 1144  cd src
+ 1145  cd UserInfoView
+ 1146  npm install -S react-router-dom
+ 1147  npm start
+ 1148  npm install react-router-dom localforage match-sorter sort-by
+ 1149  npm start
+ 1150  git status
+ 1151  git add .
+ 1152  git status
+ 1153  git add .
+ 1154  git status
+ 1155  git commit -m "Added home page & routed to it"
+ 1156  git push
+ 1157  npm start
+ 1158  git status
+ 1159  git add .
+ 1160  git status
+ 1161  git commit -m "Added routing between homepage and todo / progress tracker pages"
+ 1162  git push
+ 1163  npm start
+ 1164  git checkout master
+ 1165  git checkout main
+ 1166  git pull
+ 1167  npm start
+ 1168  git checkout -b frontend/readme
+ 1169  git status
+ 1170  git add .
+ 1171  git status
+ 1172  git add ../../README.md
+ 1173  git status
+ 1174  git commit -m "Created a README for the frontend section of the repository"
+ 1175  git push
+ 1176  git push --set-upstream origin frontend/readme
+ 1177  chmod +x get_dependencies.sh
+ 1178  cd ../../
+ 1179  chmod +x get_dependencies.sh
+ 1180  ./get_dependencies.sh
+ 1181  git status
+ 1182  git add .
+ 1183  git status
+ 1184  git commit -m "Added script to install the dependencies, as per PR comment"
+ 1185  git push
+ 1186  ls
+ 1187  cd COEN\ 171
+ 1188  git remote add origin https://github.com/maddiewaldie/COEN-171.git\ngit branch -M main\ngit push -u origin main
+ 1189  echo "# COEN-171" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/maddiewaldie/COEN-171.git\ngit push -u origin main
+ 1190  ls
+ 1191  git status
+ 1192  git add .
+ 1193  git commit -m "Homework 1"
+ 1194  git push
+ 1195  git checkout main
+ 1196  git pull
+ 1197  git checkout frontend/todos
+ 1198  npm start
+ 1199  brew install gnu-smalltalk
+ 1200  clear
+ 1201  setup smalltalk
+ 1202  ssh
+ 1203  ssh mwaldie@linux.dc.engr.scu.edu
+ 1204  git status
+ 1205  git add .
+ 1206  git commit -m "Homework 2"
+ 1207  git push
+ 1208  cd Homework\ 2
+ 1209  gcc Queens.cpp
+ 1210  make Queens.h
+ 1211  gcc Queens.cpp Queens.h
+ 1212  g++ Queens.cpp
+ 1213  ./a.out
+ 1214  clear
+ 1215  ./a.out
+ 1216  352
+ 1217  ./a.out
+ 1218  cd COEN\ 171
+ 1219  cd Homework\ 2
+ 1220  vim Queens.h
+ 1221  clear
+ 1222  ./a.out
+ 1223  g++ Queens.cpp
+ 1224  ./a.out
+ 1225  clear
+ 1226  g++ Queens.cpp
+ 1227  ./a.out
+ 1228  git checkout main
+ 1229  git pull
+ 1230  clear
+ 1231  npm start
+ 1232  cd frontend
+ 1233  npm start
+ 1234  git status
+ 1235  git checkout -b frontend/sign-up-username
+ 1236  git status
+ 1237  git add .
+ 1238  git status
+ 1239  npm start
+ 1240  git status
+ 1241  git add .
+ 1242  git commit -m "Changed sign up to just have a username"
+ 1243  git push
+ 1244  git push --set-upstream origin frontend/sign-up-username
+ 1245  npm start
+ 1246  cd COEN\ 171
+ 1247  ls
+ 1248  cd Homework\
+ 1249  cd Homework\ 2
+ 1250  vim Queens.h
+ 1251  cd Homework\ 2
+ 1252  g++ Queens.cpp
+ 1253  ./a.out
+ 1254  g++ Queens.cpp
+ 1255  ./a.out
+ 1256  g++ Queens.cpp
+ 1257  ./a.out
+ 1258  g++ Queens.cpp
+ 1259  ./a.out
+ 1260  6
+ 1261  ./a.out
+ 1262  cd COEN\ 171
+ 1263  ls
+ 1264  cd Homework\ 2
+ 1265  vim Queens.h
+ 1266  vim Tree.st
+ 1267  clear
+ 1268  git status
+ 1269  git add .
+ 1270  git status
+ 1271  git commit -m "Homework 2"
+ 1272  git push
+ 1273  cd frontend
+ 1274  npm install --save-dev @testing-library/react
+ 1275  clear
+ 1276  git checkout main
+ 1277  git pull
+ 1278  npm install --save-dev @testing-library/react jest
+ 1279  cd Desktop
+ 1280  npx create-react-app react-test-example
+ 1281  npm test
+ 1282  pm ls react-dom
+ 1283  npm ls react-dom
+ 1284  npm test
+ 1285  npm ls react
+ 1286  npm test
+ 1287  cd frontend
+ 1288  npm test
+ 1289  npm start
+ 1290  npm test
+ 1291  npm start
+ 1292  npm test
+ 1293  npm start
+ 1294  cd ../COEN-174-Project
+ 1295  cd frontend
+ 1296  npm test
+ 1297  npm start
+ 1298  npm install --save-dev jest babel-jest babel-preset-es2015 babel-preset-react react-test-renderer
+ 1299  npm start
+ 1300  clear
+ 1301  npm link node_modules/react
+ 1302  npm start
+ 1303  cd frontend
+ 1304  npm start
+ 1305  npm install
+ 1306  npm audit fix --force
+ 1307  clear
+ 1308  npm start
+ 1309  npm test
+ 1310  clear
+ 1311  npm start
+ 1312  npm test
+ 1313  diff -rq Desktop/react-test-example/node_modules COEN-174-Project/frontend/node_modules
+ 1314  npm test
+ 1315  npm install eslint-plugin-react-hooks --save-dev
+ 1316  npm start
+ 1317  npm test
+ 1318  npm install
+ 1319  npm install -S react-router-dom
+ 1320  npm test
+ 1321  npm ls react
+ 1322  npm run
+ 1323  npm start
+ 1324  clear
+ 1325  npm test
+ 1326  rm -rf node_modules\nnpm install
+ 1327  npm install @mui/material @emotion/react @emotion/styled
+ 1328  npm install @mui/material @mui/styled-engine-sc styled-components
+ 1329  npm install @fontsource/roboto
+ 1330  npm install @mui/icons-material
+ 1331  npm install --save-dev @testing-library/react
+ 1332  npm install -S react-router-dom
+ 1333  npm start
+ 1334  npm test
+ 1335  jest --silent
+ 1336  npm test
+ 1337  clear
+ 1338  npm test
+ 1339  cd frontend
+ 1340  npm test
+ 1341  npm start
+ 1342  npm test
+ 1343  cd COEN-174-Project
+ 1344  cd frontend
+ 1345  npm start
+ 1346  git status
+ 1347  git add .
+ 1348  git status
+ 1349  git checkout -b frontend/tests
+ 1350  git status
+ 1351  git commit -m "Initial tests for the frontend"
+ 1352  npm test
+ 1353  git status
+ 1354  git add .
+ 1355  git status
+ 1356  git commit --amend
+ 1357  git status
+ 1358  git push
+ 1359  git push --set-upstream origin frontend/tests
+ 1360  clear
+ 1361  npm test
+ 1362  clear
+ 1363  npm test
+ 1364  git checkout main
+ 1365  git pull
+ 1366  git checkout frontend/http_requests
+ 1367  npm start
+ 1368  git checkout main
+ 1369  clear
+ 1370  git checkout main
+ 1371  xcode-select --install
+ 1372  git checkout main
+ 1373  git pull
+ 1374  clear
+ 1375  npm start
+ 1376  clear
+ 1377  cd frontend
+ 1378  npm start
+ 1379  apt install git mariadb-server npm php php-db php-mysql
+ 1380  clear
+ 1381  git pull
+ 1382  npm start
+ 1383  npm install @material-ui/core/CircularProgress
+ 1384  npm start
+ 1385  clear
+ 1386  npm start
+ 1387  npm install chart.js\n
+ 1388  npm start
+ 1389  npm install --save chart.js react-chartjs-2
+ 1390  npm start
+ 1391  git pull
+ 1392  git checkout -b frontend/initial-progress-tracker
+ 1393  git status
+ 1394  git add .
+ 1395  git status
+ 1396  git commit -m "Created initial layout for the progress tracker page"
+ 1397  git push
+ 1398  git push --set-upstream origin frontend/initial-progress-tracker
+ 1399  clear
+ 1400  git checkout main
+ 1401  git pull
+ 1402  git checkout frontend/taskpage
+ 1403  npm start
+ 1404  yarn add @mui/x-date-pickers
+ 1405  npm install --global yarn
+ 1406  brew install yarn
+ 1407  yarn add @mui/x-date-pickers
+ 1408  yarn add moment
+ 1409  npm install dayjs --save
+ 1410  npm start
+ 1411  clear
+ 1412  git checkout main
+ 1413  git stash
+ 1414  git checkout main
+ 1415  git pull
+ 1416  clear
+ 1417  git status
+ 1418  npm start
+ 1419  cd Homework\ 3
+ 1420  brew install mit-scheme
+ 1421  brew install --build-from-source mit-scheme
+ 1422  clear
+ 1423  git status
+ 1424  git add .
+ 1425  git status
+ 1426  git commit -m "homework 3\n"
+ 1427  git push
+ 1428  ssh mwaldie@linux.dc.engr.scu.edu
+ 1429  git pull
+ 1430  npm start
+ 1431  cd frontend
+ 1432  npm start
+ 1433  git pull
+ 1434  npm start
+ 1435  git checkout frontend/routing
+ 1436  git pull
+ 1437  npm start
+ 1438  npm i react-router-dom
+ 1439  npm start
+ 1440  brew install mysql
+ 1441  arch -x86_64 brew install mysql
+ 1442  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"
+ 1443  /usr/sbin/softwareupdate --install-rosetta --agree-to-license\n\n
+ 1444  arch -x86_64 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+ 1445  clear
+ 1446  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ 1447  brew install mysql
+ 1448  echo '# Set PATH, MANPATH, etc., for Homebrew.' >> /Users/maddie/.zprofile\n    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/maddie/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+ 1449  brew install mysql
+ 1450  git checkout main
+ 1451  git pull
+ 1452  npm start
+ 1453  cd ..
+ 1454  mysql -u USERNAME --password=PASSWORD DATABASE < backend/sql/create_account_table.sql
+ 1455  brew install mysql
+ 1456  mysql -u USERNAME --password=PASSWORD DATABASE < backend/sql/create_account_table.sql
+ 1457  mysql -u USERNAME --password=PASSWORD DATABASE < backend/sql/create_task_table.sql
+ 1458  cd backend
+ 1459  php -S localhost:8000
+ 1460  brew install php
+ 1461  arch -arm64 brew install php
+ 1462  cd COEN-174-Project
+ 1463  cd frontend
+ 1464  npm start
+ 1465  clear
+ 1466  sudo mysql
+ 1467  mysql.server start
+ 1468  sudo mysql
+ 1469  ls
+ 1470  php -S localhost:8000
+ 1471  cd COEN-174-Project/backend
+ 1472  sudo mysql
+ 1473  php -S localhost:8000
+ 1474  git status
+ 1475  git checkout -b frontend/progresstracker
+ 1476  git status
+ 1477  git add ../frontend/src/TrackerView/ProgressTrackerPage.js modified:   ../frontend/src/App.js modified:   ../frontend/src/Home.js modified:   ../frontend/src/TrackerView/ProgressTracker.js
+ 1478  git status
+ 1479  git add ../frontend/src/TrackerView/ProgressTrackerPage.js modified:   ../frontend/src/App.js modified:   ../frontend/src/Home.js modified:   ../frontend/src/TrackerView/ProgressTracker.js
+ 1480  git add ../frontend/src/TrackerView/ProgressTrackerPage.js ../frontend/src/App.js  ../frontend/src/Home.js ../frontend/src/TrackerView/ProgressTracker.js
+ 1481  git status
+ 1482  git commit -m "Tied progress tracker data to the database"
+ 1483  git push
+ 1484  git push --set-upstream origin frontend/progresstracker
+ 1485  php -S localhost:8000
+ 1486  cd COEN-174-Project/frontend
+ 1487  npm start
+ 1488  cd COEN-174-Project/backend
+ 1489  sudo mysql
+ 1490  php -S localhost:8000
+ 1491  cd COEN-174-Project/backend
+ 1492  sudo mysql
+ 1493  cd COEN-174-Project
+ 1494  cd backend
+ 1495  php -S localhost:8000
+ 1496  cd frontend
+ 1497  git checkout main
+ 1498  git pull
+ 1499  npm start
+ 1500  git status
+ 1501  git checkout -b frontend/progresstracker-charts
+ 1502  git status
+ 1503  git add src/TrackerView/ProgressTracker.js src/TrackerView/ProgressTrackerPage.js
+ 1504  git status
+ 1505  git commit -m "Added graphs for remaining tasks by priority and category"
+ 1506  git push
+ 1507  git push --set-upstream origin frontend/progresstracker-charts\n
+ 1508  cd COEN\ 171
+ 1509  git status
+ 1510  git add .
+ 1511  git status
+ 1512  git commit -m "hw 4"
+ 1513  git push
+ 1514  cd
+ 1515  ssh mwaldie@linux.dc.engr.scu.edu
+ 1516  git checkout main
+ 1517  git pull
+ 1518  git checkut frontend/more_styles
+ 1519  git checkout frontend/more_styles
+ 1520  git pull
+ 1521  cd COEN-174-Project/backend
+ 1522  sudo mysql
+ 1523  php -S localhost:8000
+ 1524  npm start
+ 1525  cd frontend
+ 1526  npm start
+ 1527  git clone https://github.com/maddiewaldie/COEN-175.git
+ 1528  cd COEN-175/
+ 1529  git status
+ 1530  git add .
+ 1531  git status
+ 1532  git commit -m "lab 1 init commit"
+ 1533  git push
+ 1534  git status
+ 1535  git add .
+ 1536  git stats
+ 1537  git status
+ 1538  git commit -m "file structure"
+ 1539  git push
+ 1540  ssh mwaldie@linux.dc.engr.scu.edu
+ 1541  cd COEN-175
+ 1542  ls
+ 1543  git pull
+ 1544  tar xf phase1.tar
+ 1545  ls
+ 1546  cd COEN-175
+ 1547  ls
+ 1548  tar xf phase1
+ 1549  tar xf phase.tar
+ 1550  cd phase1
+ 1551  rm -f *.o scc core
+ 1552  make
+ 1553  cd COEN-175
+ 1554  ls
+ 1555  git status
+ 1556  git restore phase1/lexer.cpp phase1/lexer.o phase1/scc
+ 1557  git status
+ 1558  cd COEN-175
+ 1559  git pull
+ 1560  git status
+ 1561  git add .
+ 1562  git commit -m "initial commit lab 2"
+ 1563  git push
+ 1564  ssh mwaldie@linux.dc.engr.scu.edu
+ 1565  cd Desktop/Spokin
+ 1566  ls
+ 1567  git clone https://github.com/Spokin/Spokin-iOS.git
+ 1568  ls
+ 1569  cd Desktop/Spokin/Spokin-iOS
+ 1570  cd ..
+ 1571  git clone https://github.com/Spokin/SpokinModelFramework.git
+ 1572  ls
+ 1573  cd Spokin-iOS
+ 1574  pod install
+ 1575  pod init
+ 1576  ls
+ 1577  sudo gem install cocoapods
+ 1578  pod install
+ 1579  cd COEN-175
+ 1580  git pull
+ 1581  cd Desktop/Spokin/Spokin-iOS
+ 1582  ls
+ 1583  git status
+ 1584  git restore Spokin.xcodeproj/project.pbxproj
+ 1585  git resture Spokin.xcworkspace/xcshareddata/swiftpm/ Spokin.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+ 1586  git restore Spokin.xcworkspace/xcshareddata/swiftpm/ Spokin.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+ 1587  git status
+ 1588  clear
+ 1589  arch -arm64 brew install llvm
+ 1590  sudo gem install ffi
+ 1591  cd Desktop/Spokin/Spokin-iOS
+ 1592  ls
+ 1593  git status
+ 1594  cd Desktop/Spokin/Spokin-iOS
+ 1595  ls
+ 1596  git status
+ 1597  git checkout -b mads/initial-ui-test
+ 1598  git status
+ 1599  git add .
+ 1600  git commit -m "Initial commit for UI tests"
+ 1601  git checkout -b master
+ 1602  git checkout master
+ 1603  git status
+ 1604  git diff
+ 1605  git checkout -b mads/4093
+ 1606  git status
+ 1607  git restore Spokin/Interface/Search/SearchTab.storyboard
+ 1608  git status
+ 1609  git diff
+ 1610  git add .
+ 1611  git status
+ 1612  git diff
+ 1613  git commit -m "Fixed issue, where if you click recommend all products then unselect, the check box for all products stays selected"
+ 1614  git status
+ 1615  git push
+ 1616  git push --set-upstream origin mads/4093
+ 1617  git reset HEAD~1
+ 1618  git status
+ 1619  git add .
+ 1620  git status
+ 1621  git restore --staged Spokin.xcworkspace/xcshareddata/swiftpm/Package.resolved
+ 1622  git status
+ 1623  git commit --amend
+ 1624  git reset HEAD~1
+ 1625  git reset efe5eca
+ 1626  git status
+ 1627  git reset HEAD~1
+ 1628  git restore --staged Spokin.xcworkspace/xcshareddata/swiftpm/Package.resolved
+ 1629  git add .
+ 1630  git restore --staged Spokin.xcworkspace/xcshareddata/swiftpm/Package.resolved
+ 1631  git status
+ 1632  git commit -m "Fixed issue, where if you click recommend all products then unselect, the check box for all products stays selected"
+ 1633  git status
+ 1634  git push
+ 1635  git push -f
+ 1636  git status
+ 1637  cd Desktop/Spokin/Spokin-iOS
+ 1638  ls
+ 1639  git status
+ 1640  git stash
+ 1641  git status
+ 1642  git clean
+ 1643  git clean -f
+ 1644  ls
+ 1645  git status
+ 1646  git clean -f
+ 1647  git status
+ 1648  git clean -n 
+ 1649  git add
+ 1650  git add Spokin.xcworkspace/xcshareddata/swiftpm/
+ 1651  git status
+ 1652  git rm Spokin.xcworkspace/xcshareddata/swiftpm/Package.resolved
+ 1653  git status
+ 1654  git rm --cached Spokin.xcworkspace/xcshareddata/swiftpm/Package.resolved
+ 1655  git status
+ 1656  git rm Spokin.xcworkspace/xcshareddata/swiftpm/Package.resolved
+ 1657  touch .gitignore
+ 1658  vim .gitignore
+ 1659  git status
+ 1660  vim .gitignore
+ 1661  git status
+ 1662  vim .gitignore
+ 1663  git status
+ 1664  git checkout mads/initial-ui-test
+ 1665  git status
+ 1666  git add SpokinUITests/ObjectModel/OnboardingScreen.swift SpokinUITests/ObjectModel/SpokinApplication.swift SpokinUITests/OnboardingUITests.swift
+ 1667  git status
+ 1668  git commit --amend
+ 1669  git status
+ 1670  git checkout mads/4093
+ 1671  cd Desktop/Spokin/Spokin
+ 1672  cd Desktop/Spokin/Spokin-iOS
+ 1673  ls
+ 1674  git status
+ 1675  git add Spokin/Interface/Search/CategorySearchViewController.swift
+ 1676  git status
+ 1677  git commit -m "Addressed PR comments"
+ 1678  git status
+ 1679  git checkout mads/initial-ui-test
+ 1680  git status
+ 1681  cd Desktop/Spokin/Spokin-iOS
+ 1682  git status
+ 1683  git add SpokinUITests/ObjectModel/OnboardingScreen.swift  SpokinUITests/ObjectModel/SpokinApplication.swift SpokinUITests/OnboardingUITests.swift
+ 1684  git status
+ 1685  git commit --amend
+ 1686  git status
+ 1687  gst
+ 1688  clear
+ 1689  git checkout mads/4093
+ 1690  git commit --amend
+ 1691  git push
+ 1692  git status
+ 1693  git diff
+ 1694  git add Spokin.xcodeproj/project.pbxproj SpokinTests/CoreTest.swift SpokinTests/RecommendationTests.swift
+ 1695  git status
+ 1696  git commit -m "Added test for isProductSelected()"
+ 1697  git push
+ 1698  git status
+ 1699  git checkout master
+ 1700  git status
+ 1701  git pull
+ 1702  git checkout -b mads/4097
+ 1703  git status
+ 1704  gst
+ 1705  git add Spokin/Interface/Chat/ChatViewController.swift
+ 1706  git commit
+ 1707  git status
+ 1708  git push
+ 1709  git push --set-upstream origin mads/4097
+ 1710  cd Desktop/Spokin/Spokin-iOS
+ 1711  ls
+ 1712  git status
+ 1713  git checkout mads/4093
+ 1714  git pull origin master
+ 1715  git pull
+ 1716  git checkout master
+ 1717  git pull
+ 1718  git status
+ 1719  git diff
+ 1720  git checkout -b mads/4101
+ 1721  git status
+ 1722  git add Spokin/Interface/ContentEntity/Cells/BusinessDetailTableViewCell.swift
+ 1723  git status
+ 1724  git commit -m "Added if lets to handle cases where the address/phone number/website for a business are nil, which were causing the app to crash"
+ 1725  git push
+ 1726  git push --set-upstream origin mads/4101
+ 1727  git status
+ 1728  cd Desktop/Spokin/Spokin-iOS
+ 1729  ls
+ 1730  git status
+ 1731  git checkout master
+ 1732  git checkout mads/initial-ui-test
+ 1733  git checkout master
+ 1734  git pull
+ 1735  git checkout mads/initial-ui-test
+ 1736  git checkout master
+ 1737  cd Desktop/Spokin/Spokin-iOS
+ 1738  ls
+ 1739  git status
+ 1740  git checkout -b mads/refactor-ui-tests
+ 1741  git status
+ 1742  git add Spokin.xcodeproj/project.pbxproj SpokinUITests/ObjectModel/OnboardingScreen.swift SpokinUITests/ObjectModel/SpokinApplication.swift SpokinUITests/OnboardingUITests.swift
+ 1743  git status
+ 1744  git commit -m "initial commit for refactoring ui tests"
+ 1745  git push
+ 1746  git push --set-upstream origin mads/refactor-ui-tests
+ 1747  git status
+ 1748  git add SpokinUITests/ObjectModel/OnboardingScreen.swift SpokinUITests/OnboardingUITests.swift
+ 1749  git status
+ 1750  git commit --amend
+ 1751  git push
+ 1752  git push -f
+ 1753  cd Desktop/Spokin/Spokin-iOS
+ 1754  ls
+ 1755  git status
+ 1756  git checkout mads/4101
+ 1757  git status
+ 1758  git add SpokinTests/CoreTest.swift
+ 1759  git status
+ 1760  git commit -m "Added unit test"
+ 1761  git push
+ 1762  git checkout mads/refactor-ui-tests
+ 1763  git status
+ 1764  git add Spokin.xcodeproj/project.pbxproj SpokinUITests/ObjectModel/NewsFeed.swift SpokinUITests/ObjectModel/OnboardingScreen.swift SpokinUITests/ObjectModel/SpokinApplication.swift SpokinUITests/OnboardingUITests.swift
+ 1765  git status
+ 1766  git commit -m "Finished refactoring the Onboarding UI tests & created a basic Object Model"
+ 1767  git push
+ 1768  git status
+ 1769  git add SpokinUITests/ObjectModel/OnboardingScreen.swift SpokinUITests/OnboardingUITests.swift
+ 1770  git status
+ 1771  git commit -m "Added marks to separate parts of the code"
+ 1772  git push
+ 1773  git status
+ 1774  git checkout -b mads/4108
+ 1775  git status
+ 1776  cd Desktop/Spokin/Spokin-iOS
+ 1777  git diff
+ 1778  git checkout master
+ 1779  git pull
+ 1780  git branch -d mads/4108
+ 1781  git checkout -b mads/4108
+ 1782  ls
+ 1783  git pull
+ 1784  git pull master
+ 1785  git checkout master
+ 1786  git checkout mads/4108
+ 1787  git status
+ 1788  git add SpokinUITests/ObjectModel/OnboardingScreen.swift SpokinUITests/OnboardingUITests.swift
+ 1789  git status
+ 1790  git commit -m "Initial commit for testing the text field input values (not finished yet)"
+ 1791  git status
+ 1792  git push
+ 1793  git push --set-upstream origin mads/4108
+ 1794  cd Desktop/Spokin
+ 1795  git clone https://github.com/Spokin/JarvisMobile.git
+ 1796  pod install
+ 1797  pod init
+ 1798  cd JarvisMobile
+ 1799  pod install
+ 1800  pod init
+ 1801  cd ..
+ 1802  cd Spokin-iOS
+ 1803  ls
+ 1804  git status
+ 1805  git add Spokin/Utilities/Constants.swift SpokinUITests/ObjectModel/OnboardingScreen.swift SpokinUITests/OnboardingUITests.swift
+ 1806  ls
+ 1807  clear
+ 1808  gst
+ 1809  git commit -m "Finished a test for the username text field input values\n"
+ 1810  git push
+ 1811  cd Desktop/Spokin/Spokin-iOS
+ 1812  gst
+ 1813  git checkout master
+ 1814  git pull
+ 1815  git checkout ezradeva/#4093
+ 1816  pod install
+ 1817  git checkout master
+ 1818  git stash
+ 1819  git pull master
+ 1820  git checkout master
+ 1821  pod install
+ 1822  cd Desktop/Spokin/Spokin-iOS
+ 1823  pod install
+ 1824  git status
+ 1825  git checkout ezradeva/#4093
+ 1826  git stash
+ 1827  git checkout ezradeva/#4093
+ 1828  git stash
+ 1829  git rm Spokin.xcworkspace/xcshareddata/swiftpm/Package.resolved 
+ 1830  vim .gitignore
+ 1831  git checkout ezradeva/#4093
+ 1832  pod install
+ 1833  git pull master
+ 1834  git checkout master
+ 1835  git stash
+ 1836  git checkout master
+ 1837  git pull
+ 1838  pod install
+ 1839  cd Desktop/Spokin/Spokin-iOS
+ 1840  git status
+ 1841  git diff
+ 1842  git status
+ 1843  git pull
+ 1844  git checkout -b mads/4137
+ 1845  git status
+ 1846  git add Spokin/Interface/Feed/Cells/MetadataCollectionViewCell.swift
+ 1847  git status
+ 1848  git commit -m "Added the business address to the "saved" cards"
+ 1849  git push
+ 1850  git push --set-upstream origin mads/4137
+ 1851  git checkout master
+ 1852  git pull
+ 1853  git sattus
+ 1854  git status
+ 1855  git diff
+ 1856  git checkout -b mads/4149
+ 1857  git status
+ 1858  git add Spokin/Interface/Search/Cells/MapViewController.swift  Spokin/Interface/Search/NewMapViewController.swift Spokin/Interface/Search/SearchMapViewController+EXT.swift
+ 1859  git status
+ 1860  git commit -m "Added pins for saved items to the map"
+ 1861  git push
+ 1862  git push --set-upstream origin mads/4149
+ 1863  git checkout master
+ 1864  git pull
+ 1865  git checkout mads/4108
+ 1866  cd Desktop/Spokin/Spokin-iOS
+ 1867  git status
+ 1868  git add SpokinUITests/ObjectModel/OnboardingScreen.swift SpokinUITests/OnboardingUITests.swift
+ 1869  git status
+ 1870  git commit -m "Added tests for password and email text fields"
+ 1871  git push
+ 1872  git checkout master
+ 1873  git pull
+ 1874  git checkout mads/4108
+ 1875  git status
+ 1876  git checkout master
+ 1877  git checkout -b mads/4129
+ 1878  git status
+ 1879  git add SpokinUITests/ObjectModel/OnboardingScreen.swift 
+ 1880  git status
+ 1881  git commit -m "Added UI elements for allergen screen to the Object Model"
+ 1882  git push
+ 1883  git push --set-upstream origin mads/4129
+ 1884  cd Desktop/Spokin/Spokin-iOS
+ 1885  gst
+ 1886  git checkout master
+ 1887  git checkout -b mads/4151
+ 1888  git status
+ 1889  git add Spokin/Interface/NewsFeed/NewsFeedViewController.swift
+ 1890  git commit -m "Commented out setup of the New! popup label - left in function code, in case popup label ever needs reused"
+ 1891  git push
+ 1892  git push --set-upstream origin mads/4151
+ 1893  cd Desktop/Spokin/Spokin-iOS
+ 1894  git status
+ 1895  git checkout master
+ 1896  git status
+ 1897  clear ; /Applications/SageMath-9-8.app/Contents/Frameworks/Sage.framework/Versions/Current/venv/bin/sage ; exit
+ 1898  clear
+ 1899  cd Desktop/Spokin/Spokin
+ 1900  cd Desktop/Spokin/Spokin-iOS
+ 1901  git pull
+ 1902  git checkout mads/4137
+ 1903  git checkout master
+ 1904  git pull
+ 1905  rm .git/refs/remotes/upstream/main\ngit fetch upstream
+ 1906  git pull origin master
+ 1907  rm '.git/refs/heads/mads/4108 2\n\n'
+ 1908  rm '.git/refs/heads/mads/4108 2'
+ 1909  git pull
+ 1910  git checkout mads/4149
+ 1911  git status
+ 1912  git rm SpokinUITests/ObjectModel/OnboardingScreen 2.swift
+ 1913  git rm SpokinUITests/ObjectModel/OnboardingScreen\ 2.swift
+ 1914  git status
+ 1915  git add SpokinTests/MapPinTests.swift
+ 1916  git status
+ 1917  git diff
+ 1918  git add Spokin.xcodeproj/project.pbxproj
+ 1919  git status
+ 1920  git commit -m "Added test for state of bookmarked pins"
+ 1921  git push
+ 1922  git checkout master
+ 1923  git status
+ 1924  git checkout master
+ 1925  git status
+ 1926  git reset --HARD ed65523
+ 1927  git status
+ 1928  git reset --hard ed65523
+ 1929  git status
+ 1930  git restore SpokinUITests/ObjectModel/OnboardingScreen\ 2.swift
+ 1931  git status
+ 1932  git diff
+ 1933  git status
+ 1934  git restore Spokin.xcodeproj/project.pbxproj
+ 1935  git status
+ 1936  git checkout -b mads/4191
+ 1937  git status
+ 1938  git add Spokin/Interface/Chat/ChatInboxViewController.swift Spokin/Interface/NewsFeed/NewsFeedViewController.swift
+ 1939  git status
+ 1940  git commit -m "Only display the "Welcome to Spokin Messaging" message once for new users"
+ 1941  git commit -m "Only display the Welcome to Spokin Messaging message once for new users"
+ 1942  git status
+ 1943  git push
+ 1944  git push --set-upstream origin mads/4191
+ 1945  git status
+ 1946  git add Spokin/Interface/NewsFeed/NewsFeedViewController.swift
+ 1947  git commit --amend
+ 1948  git status
+ 1949  git push -f
+ 1950  git status
+ 1951  git checkout master
+ 1952  git status
+ 1953  cd Desktop/Spokin/Spokin-iOS
+ 1954  git checkout mads/4163
+ 1955  git checkout mads/4149
+ 1956  cd Desktop/Spokin/Spokin-iOS
+ 1957  git checkout master
+ 1958  git stash
+ 1959  git checkout master
+ 1960  git checkout mads/4129
+ 1961  git pull origin master
+ 1962  git config pull.rebase false
+ 1963  git pull origin master
+ 1964  git status
+ 1965  git push
+ 1966  git checkout master
+ 1967  git checkout mads/4129
+ 1968  git status
+ 1969  git add SpokinUITests/ObjectModel/OnboardingScreen.swift SpokinUITests/OnboardingUITests.swift
+ 1970  git status
+ 1971  git commit -m "Added cases for allergens to the onboarding screen OM & started a test"
+ 1972  git push
+ 1973  git checkout master
+ 1974  git pull
+ 1975  git checkout mads/4163
+ 1976  git checkout mads/4149
+ 1977  cd Desktop/Spokin/Spokin-iOS
+ 1978  git status
+ 1979  giy restore Spokin/Interface/Search/Cells/MapViewController.swift Spokin/Interface/Search/SearchMapViewController+EXT.swift
+ 1980  git restore Spokin/Interface/Search/SearchMapViewController+EXT.swift Spokin/Interface/Search/Cells/MapViewController.swift
+ 1981  git pull
+ 1982  '~'
+ 1983  pod install
+ 1984  git status
+ 1985  git add Spokin/Interface/Search/SearchMapViewController+EXT.swift
+ 1986  git status
+ 1987  git commit -m "Fixed issue where first pin wasn't getting highlighted"
+ 1988  git push
+ 1989  git checkout master
+ 1990  git checkout mads/4129
+ 1991  git pod install
+ 1992  pod install
+ 1993  git status
+ 1994  git diff
+ 1995  git add Spokin.xcodeproj/project.pbxproj SpokinUITests/ObjectModel/OnboardingAllergenScreen.swift SpokinUITests/ObjectModel/OnboardingScreen.swift SpokinUITests/OnboardingUITests.swift
+ 1996  git status
+ 1997  git commit -m "Added tests for all the allergen scenarios"
+ 1998  git push
+ 1999  git checkout master
+ 2000  git checkout ezradeva/#4196_DeeplLinkFix
+ 2001  git checkout master
+ 2002  git checkout mads/4129
+ 2003  git checkout master
+ 2004  git pull
+ 2005  cd Desktop/Spokin/Spokin-iOS
+ 2006  git pull
+ 2007  git sttaus
+ 2008  git status
+ 2009  git pull
+ 2010  cd Desktop/Spokin/Spokin-iOS
+ 2011  git checkout fixJumpLink
+ 2012  git pull
+ 2013  git checkout fixJumpLink
+ 2014  pod install
+ 2015  git checkout master
+ 2016  git pull
+ 2017  pod install
+ 2018  git status
+ 2019  git restore Spokin.xcodeproj/project.pbxproj
+ 2020  pod install
+ 2021  git status
+ 2022  git reset --hard HEAD
+ 2023  git status
+ 2024  pod install
+ 2025  git status
+ 2026  git checkout -b mads/4128
+ 2027  git status
+ 2028  git add SpokinUITests/ObjectModel/OnboardingScreen.swift SpokinUITests/OnboardingUITests.swift
+ 2029  git status
+ 2030  git commit -m "Started adding UI elements for parent of child with food allergies screen"
+ 2031  git push
+ 2032  git push --set-upstream origin mads/4128
+ 2033  cd Desktop/Spokin/Spokin-iOS
+ 2034  git status
+ 2035  git checkout master
+ 2036  git pull
+ 2037  git status
+ 2038  git restore Spokin.xcodeproj/project.pbxproj  Podfile.lock
+ 2039  git pull
+ 2040  pod install
+ 2041  cd Desktop/Spokin/Spokin-iOS
+ 2042  git status
+ 2043  git diff
+ 2044  git checkiut -b mads/4214
+ 2045  git checkout -b mads/4214
+ 2046  git status
+ 2047  git add .
+ 2048  git status
+ 2049  gt commit -m "Added refresh to the map every time the map view loads"
+ 2050  git commit -m "Added refresh to the map every time the map view loads"
+ 2051  git push
+ 2052  git push --set-upstream origin mads/4214
+ 2053  git status
+ 2054  git checkout master
+ 2055  git status
+ 2056  git pull
+ 2057  git status
+ 2058  git diff
+ 2059  git checkout -b mads/4217
+ 2060  git status
+ 2061  git add .
+ 2062  git status
+ 2063  git commit -m "Changed all strings from News Feed to Newsfeed"
+ 2064  git push
+ 2065  git push --set-upstream origin mads/4217
+ 2066  git statua
+ 2067  git status
+ 2068  git checkout master
+ 2069  git pull
+ 2070  git status
+ 2071  git checkout -b mads/4219
+ 2072  git status
+ 2073  git add .
+ 2074  git status
+ 2075  git commit -m "Started working on emoji + text format"
+ 2076  git push
+ 2077  git push --set-upstream origin mads/4219
+ 2078  clear ; /Applications/SageMath-9-8.app/Contents/Frameworks/Sage.framework/Versions/Current/venv/bin/sage ; exit
+ 2079  cd Desktop/Spokin/Spokin-iOS
+ 2080  git statu
+ 2081  git status
+ 2082  git add .
+ 2083  git commit -m "Made collectionview of buttons vertical flow & disabled scrolling"
+ 2084  git push
+ 2085  git status
+ 2086  git add .
+ 2087  git commit -m "Made buttons correct light gray color"
+ 2088  git push
+ 2089  git status
+ 2090  cd Desktop/Spokin/Spokin-iOS
+ 2091  git status
+ 2092  git add .
+ 2093  git commit -m "Made space around continue button"
+ 2094  git push
+ 2095  clear ; /Applications/SageMath-9-8.app/Contents/Frameworks/Sage.framework/Versions/Current/venv/bin/sage ; exit
+ 2096  cd Desktop/Spokin/Spokin-iOS
+ 2097  git status
+ 2098  git add .
+ 2099  git status
+ 2100  git commit -m "Finished layout of buttons in the newsfeed preferences\n"
+ 2101  git push
+ 2102  cd Desktop/Spokin/Spokin-iOS
+ 2103  gst
+ 2104  git add Spokin/Interface/Onboarding_SignUp/Onboarding.storyboard
+ 2105  git status
+ 2106  git commit -m "Removed lines between headers & added space at bottom for button"
+ 2107  git push
+ 2108  git status
+ 2109  git add .
+ 2110  git commit -m "Added different topics"
+ 2111  git push
+ 2112  git status
+ 2113  cd ..
+ 2114  ls
+ 2115  git clone https://github.com/Spokin/SpokinModelFramework.git
+ 2116  cd SpokinModelFramework
+ 2117  git pull
+ 2118  git status
+ 2119  git diff
+ 2120  git checkout -b mads/4220
+ 2121  git status
+ 2122  git add CommonSource/Assets/DiscoveryTopics.plist
+ 2123  git status
+ 2124  git commit -m "Added topics to the plist"
+ 2125  git push
+ 2126  git push --set-upstream origin mads/4220
+ 2127  cd Desktop/Spokin/Spokin-iOS
+ 2128  git status
+ 2129  git pull mads/4217
+ 2130  git pull origin master
+ 2131  git status
+ 2132  git push
+ 2133  git pull mads/4217
+ 2134  git status
+ 2135  git commit -m "Created formula to adjust height of tableview row based on number of buttons in the cell" 
+ 2136  git add .
+ 2137  git commit -m "Created formula to adjust height of tableview row based on number of buttons in the cell" 
+ 2138  git push
+ 2139  git status
+ 2140  git add .
+ 2141  git commit -m "Added logic to change customize button color & enable/disable based on number of selections"
+ 2142  git status
+ 2143  git add .
+ 2144  git commit --amend
+ 2145  git status
+ 2146  git push
+ 2147  cd Desktop/Spokin/Spokin-iOS
+ 2148  git status
+ 2149  git diff
+ 2150  git checkout master
+ 2151  git status
+ 2152  git pull
+ 2153  git checkout -b mads/test-coverage
+ 2154  git status
+ 2155  git add Spokin.xcodeproj/xcshareddata/xcschemes/Stag.xcscheme
+ 2156  git commit -m "Enabled test coverage report"
+ 2157  git push
+ 2158  git push --set-upstream origin mads/test-coverage
+ 2159  git checkout master
+ 2160  git checkout mads/4219
+ 2161  git status
+ 2162  cd Desktop/Spokin/Spokin-iOS
+ 2163  ls
+ 2164  xcrun xccov view --report Build/Logs/Test/*.xcresult --json
+ 2165  xcodebuild -project Spokin.xcodeproj/ -scheme Stag -derivedDataPath Build/ -destination 'platform=iOS Simulator,OS=14.4,name=iPhone 14 Pro' -enableCodeCoverage YES clean build test CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
+ 2166  xcode-select --install
+ 2167  sudo xcode-select --switch /Library/Developer/CommandLineTools
+ 2168  xcodebuild -project Spokin.xcodeproj/ -scheme Stag -derivedDataPath Build/ -destination 'platform=iOS Simulator,OS=14.4,name=iPhone 14 Pro' -enableCodeCoverage YES clean build test CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
+ 2169  clar
+ 2170  clear
+ 2171  xcodebuild -project Spokin.xcodeproj/ -scheme Stag -derivedDataPath Build/ -destination 'platform=iOS Simulator,OS=14.4,name=iPhone 14 Pro' -enableCodeCoverage YES clean build test CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
+ 2172  sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+ 2173  xcodebuild -project Spokin.xcodeproj/ -scheme Stag -derivedDataPath Build/ -destination 'platform=iOS Simulator,OS=14.4,name=iPhone 14 Pro' -enableCodeCoverage YES clean build test CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
+ 2174  clear
+ 2175  xcodebuild -project Spokin.xcodeproj/ -scheme Stag -derivedDataPath Build/ -destination 'platform=iOS Simulator,OS=16.2,name=iPhone 14 Pro' -enableCodeCoverage YES clean build test CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
+ 2176  xcrun xccov view Build/Logs/Test/*.xccoveragereport
+ 2177  xcrun xccov view /Users/maddie/Desktop/Spokin/Spokin-iOS/Build/Logs/Test/*.xccoveragereport
+ 2178  xcrun xcresulttool get /Users/maddie/Desktop/Spokin/Spokin-iOS/Build/Logs/Test/*.xcresult
+ 2179  xcrun xcresulttool get /Users/maddie/Desktop/Spokin/Spokin-iOS/Build/Logs/Test/.xcresult
+ 2180  xcrun xcresulttool get /Users/maddie/Desktop/Spokin/Spokin-iOS/Build/Logs/Test/Run-Stag-2023.03.17_17-24-14--0700.xcresult
+ 2181  xcrun --help
+ 2182  xcrun xcresulttool --help
+ 2183  xcrun xcresulttool export --help
+ 2184  xccov view --archive [--file-list | --file path]  /Users/maddie/Desktop/Spokin/Spokin-iOS/Build/Logs/Test/Run-Stag-2023.03.17_17-24-14--0700.xcresult
+ 2185  xcrun xccov view --report  /Users/maddie/Desktop/Spokin/Spokin-iOS/Build/Logs/Test/Run-Stag-2023.03.17_17-24-14--0700.xcresult
+ 2186  xcrun xccov view --report  -- json /Users/maddie/Desktop/Spokin/Spokin-iOS/Build/Logs/Test/Run-Stag-2023.03.17_17-24-14--0700.xcresult
+ 2187  xccov view --archive [--file-list | --file path]  /Users/maddie/Desktop/Spokin/Spokin-iOS/Build/Logs/Test/Run-Stag-2023.03.17_17-24-14--0700.xcresult
+ 2188  xccov view --archive /Users/maddie/Desktop/Spokin/Spokin-iOS/Build/Logs/Test/Run-Stag-2023.03.17_17-24-14--0700.xcresult
+ 2189  xcrun xccov view --archive /Users/maddie/Desktop/Spokin/Spokin-iOS/Build/Logs/Test/Run-Stag-2023.03.17_17-24-14--0700.xcresult
+ 2190  xcrun view --archive /Users/maddie/Desktop/Spokin/Spokin-iOS/Build/Logs/Test/Run-Stag-2023.03.17_17-24-14--0700.xcresult
+ 2191  xcrun view /Users/maddie/Desktop/Spokin/Spokin-iOS/Build/Logs/Test/Run-Stag-2023.03.17_17-24-14--0700.xcresult
+ 2192  xcodebuild -project Spokin.xcodeproj/ -scheme Stag -derivedDataPath Build/ -destination 'platform=iOS Simulator,OS=16.2,name=iPhone 14 Pro' -enableCodeCoverage YES clean build test CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
+ 2193  git status
+ 2194  clear
+ 2195  git status
+ 2196  pod install
+ 2197  git status
+ 2198  pod install
+ 2199  git status
+ 2200  git rm Spokin.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+ 2201  cd Desktop/Spokin/Spokin-iOS
+ 2202  pod install
+ 2203  cd Desktop/Spokin/Spokin-iOS
+ 2204  git status
+ 2205  git add Spokin/Interface/Onboarding_SignUp/CustomizeFeed/CustomizeFeedViewController.swift
+ 2206  git status
+ 2207  git restore Spokin.xcodeproj/project.pbxproj  Podfile.lock SpokinTests/NewsfeedPreferenceTests.swift
+ 2208  git status
+ 2209  pod install
+ 2210  git status
+ 2211  git diff
+ 2212  git restore SpokinTests/NewsfeedPreferenceTests.swift
+ 2213  git status
+ 2214  git add SpokinTests/NewsfeedPreferenceTests.swift
+ 2215  git status
+ 2216  git commit -m "implemented variables for constants"
+ 2217  git push
+ 2218  git status
+ 2219  git stash
+ 2220  git status
+ 2221  git checkout master
+ 2222  git pull
+ 2223  pod install
+ 2224  git status
+ 2225  pod install
+ 2226  git checkout ezradeva/#3539-AddPhotoToReview
+ 2227  git checkout master
+ 2228  git status
+ 2229  git pull
+ 2230  git checkout mads/4129
+ 2231  git status
+ 2232  git add SpokinUITests/ObjectModel/OnboardingAllergenScreen.swift SpokinUITests/OnboardingUITests.swift
+ 2233  git status
+ 2234  git commit -m "Reduced duplicate code with expandOrCollapse function"
+ 2235  git push
+ 2236  git checkout master
+ 2237  git status
+ 2238  git checkout master
+ 2239  git checkout mads/4219
+ 2240  git stash pop
+ 2241  git status
+ 2242  git add SpokinUITests/ObjectModel/SpokinSettings.swift SpokinUITests/ObjectModel/SpokinApplication.swift SpokinUITests/NewsfeedPreferenceTests.swift
+ 2243  git status
+ 2244  git add Spokin/Interface/Onboarding_SignUp/CustomizeFeed/CustomizeFeedViewController.swift
+ 2245  git status
+ 2246  git diff
+ 2247  git add Spokin.xcodeproj/project.pbxproj
+ 2248  git status
+ 2249  git commit -m "Added a test for the continue button\n"
+ 2250  git push
+ 2251  cd Desktop/Spokin/Spokin-iOS
+ 2252  git stats
+ 2253  git status
+ 2254  git add SpokinUITests/ObjectModel/SpokinSettings.swift
+ 2255  git status
+ 2256  git commit -m "Added a test for the continue button\n"
+ 2257  git push
+ 2258  git status
+ 2259  git checkout -b mads/newsfeed-quickfilters
+ 2260  git status
+ 2261  git add .
+ 2262  git commit -m "started button positioning for the newsfeed quickfilters"
+ 2263  git push
+ 2264  git push --set-upstream origin mads/newsfeed-quickfilters
+ 2265  cd Desktop/Spokin/Spokin-iOS
+ 2266  git status
+ 2267  git add .
+ 2268  git status
+ 2269  git commit -m "Spaced out buttons on the bar of quickfilters"
+ 2270  git push
+ 2271  git status
+ 2272  git add .
+ 2273  git commit -m "Adjusted vertical space between buttons & newsfeed / nav bar"
+ 2274  git status
+ 2275  git push
+ 2276  git status
+ 2277  git add .
+ 2278  git commit -m "Added logic to deselect other filters when a filter's selected"
+ 2279  git push
+ 2280  git status
+ 2281  cd Desktop/Spokin/Spokin-iOS
+ 2282  git status
+ 2283  git add .
+ 2284  git commit -m "Added ... button to change preferences"
+ 2285  git push
+ 2286  git status
+ 2287  git add .
+ 2288  git commit -m "Took away else case for changing button color"
+ 2289  git push
+ 2290  git status
+ 2291  git add .
+ 2292  git commit -m "Removed the 'save' & 'dismiss' buttons from the preferences pop up in settings"
+ 2293  git push
+ 2294  git status
+ 2295  git add .
+ 2296  git commit -m "Made quick filter bar scrollable"
+ 2297  git push
+ 2298  cd Desktop/Spokin/Spokin-iOS
+ 2299  git statis
+ 2300  git status
+ 2301  git add .
+ 2302  git commit -m "Added refresh of quick filter bar when preferences are changed via the ... button"
+ 2303  git push
+ 2304  git status
+ 2305  git add .
+ 2306  git commit -m "Centered 3 dots button vertically in view"
+ 2307  git push
+ 2308  cd Desktop/coen177
+ 2309  cd Lab1
+ 2310  ls
+ 2311  sh Lab1-Step1.sh
+ 2312  sh Lab1-Step3.sh
+ 2313  cd Desktop/coen177
+ 2314  git remote add origin https://github.com/maddiewaldie/COEN-177.git\ngit branch -M main\ngit push -u origin main
+ 2315  echo "# COEN-177" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/maddiewaldie/COEN-177.git\ngit push -u origin main
+ 2316  git status
+ 2317  git add .
+ 2318  git status
+ 2319  git commit -m "Lab 1"
+ 2320  git push
+ 2321  cd Desktop/coen177
+ 2322  ls
+ 2323  cd Lab1
+ 2324  ls
+ 2325  sh Lab1-Step1.sh
+ 2326  sh Lab1-Step3.sh
+ 2327  cd coen177
+ 2328  ls
+ 2329  cd Lab1
+ 2330  ./Lab1-Step1.sh
+ 2331  sh Lab1-Step1.sh
+ 2332  clear
+ 2333  sh Lab1-Step3.sh
+ 2334  clear
+ 2335  ls
+ 2336  vim Lab1-Step1.sh
+ 2337  sudo vim ~/.vimrc
+ 2338  vim Lab1-Step1.sh
+ 2339  clear
+ 2340  vim Lab1-Step1.sh
+ 2341  vim Lab1-Step3.sh
+ 2342  sh Lab1-Step1.sh
+ 2343  sh Lab1-Step3.sh
+ 2344  clear
+ 2345  sh Lab1-Step3.sh
+ 2346  clear
+ 2347  sh Lab1-Step3.sh
+ 2348  clear
+ 2349  sh Lab1-Step3.sh
+ 2350  clear
+ 2351  sh Lab1-Step3.sh
+ 2352  clear
+ 2353  sh Lab1-Step3.sh
+ 2354  clear
+ 2355  sh Lab1-Step3.sh
+ 2356  clear
+ 2357  ls
+ 2358  sh Lab1-Step1.sh
+ 2359  sh Lab1-Step3.sh
+ 2360  clear
+ 2361  sh Lab1-Step3.sh
+ 2362  clear
+ 2363  sh Lab1-Step3.sh
+ 2364  python --versino
+ 2365  python --version
+ 2366  python
+ 2367  python install
+ 2368  which python
+ 2369  python3 --version
+ 2370  clear
+ 2371  python3 hw1-problem2.py
+ 2372  cd Desktop/Code/Spokin/Spokin-iOS
+ 2373  pod install
+ 2374  git status
+ 2375  git add .
+ 2376  git commit -m "Modified podfile to help with error"
+ 2377  git push
+ 2378  git pull origin master
+ 2379  git status
+ 2380  git add .
+ 2381  git status
+ 2382  git commit -m "pulled in most recent master & merged conflicts"
+ 2383  git push
+ 2384  cd Desktop/Code/Spokin/Spokin-iOS
+ 2385  ls
+ 2386  git checkout master
+ 2387  git pull
+ 2388  cd Desktop/Code/Spokin/Spokin-iOS
+ 2389  git status
+ 2390  git rm readme.md
+ 2391  git status
+ 2392  git restore readme.md
+ 2393  git status
+ 2394  git checkout mads/newsfeed-quickfilters
+ 2395  git status
+ 2396  git add .
+ 2397  git status
+ 2398  git commit -m "Started filtering feed based on filter selected"
+ 2399  git push
+ 2400  git checkout master
+ 2401  git checkout ezradeva/#4093
+ 2402  git pull origin master --theirs
+ 2403  git pull -X theirs
+ 2404  git pull origin master -X theirs
+ 2405  pod install
+ 2406  git status
+ 2407  git add .
+ 2408  git status
+ 2409  git commit -m "Resolved merge conflicts"
+ 2410  git push
+ 2411  git checkout master
+ 2412  git pull
+ 2413  git checkout mads/newsfeed-quickfilters
+ 2414  pod install
+ 2415  cd Desktop/Code/Spokin/Spokin-iOS
+ 2416  git status
+ 2417  git add .
+ 2418  git commit -m "attempting to use business type to help filter"
+ 2419  git push
+ 2420  clear
+ 2421  python3 hw1-problem2.py
+ 2422  clear
+ 2423  cd Desktop/Code/Spokin/Spokin-iOS
+ 2424  ls
+ 2425  git status
+ 2426  git checkout master
+ 2427  git pull
+ 2428  pod install
+ 2429  ls
+ 2430  rm Podfile
+ 2431  ls
+ 2432  pod install
+ 2433  git status
+ 2434  git restore Podfile
+ 2435  git status
+ 2436  git rm Podfile.lock
+ 2437  pod install
+ 2438  ls
+ 2439  rm Pods
+ 2440  pod install
+ 2441  git status
+ 2442  git restore Podfile.lock
+ 2443  git status
+ 2444  git restore --staged Podfile.lock
+ 2445  git status
+ 2446  git restore Podfile.lock
+ 2447  git status
+ 2448  git restore Spokin/Assets.xcassets/Welcome/welcomeGirl.imageset/.Spokin_LoginScreen_030718_iPhoneX.png.icloud
+ 2449  git status
+ 2450  clear
+ 2451  pod install
+ 2452  vim /Users/maddie/.ssh/known_hosts
+ 2453  pod install
+ 2454  vim /Users/maddie/.ssh/known_hosts
+ 2455  pod install
+ 2456  vim /Users/maddie/.ssh/known_hosts
+ 2457  clear
+ 2458  pod install
+ 2459  ssh-keygen -R uNiVztksCsDhcc0u9e8BujQXVUpKZIDTMczCvj3tD2s
+ 2460  vim /Users/maddie/.ssh/known_hosts
+ 2461  pod install
+ 2462  git pull
+ 2463  git checkout mads/newsfeed-quickfilters
+ 2464  git stash
+ 2465  git checkout mads/newsfeed-quickfilters
+ 2466  pod install
+ 2467  git status
+ 2468  git add .
+ 2469  git commit -m "Fixed spacing between buttons in the quickfilter bar"
+ 2470  git push
+ 2471  git status
+ 2472  git add .
+ 2473  git commit -m "Fixed weird spacing between filtered cards"
+ 2474  git push
+ 2475  git checkout master
+ 2476  git checkout mads/4129
+ 2477  git pull
+ 2478  git checkout master
+ 2479  git checkout mads/newsfeed-quickfilters
+ 2480  git status
+ 2481  cd Desktop/Code/Spokin/Spokin-iOS
+ 2482  git status
+ 2483  git pull origin master
+ 2484  pod install
+ 2485  git status
+ 2486  git ass .
+ 2487  git add .
+ 2488  git status
+ 2489  git commit -m "merged w master"
+ 2490  git push
+ 2491  git status
+ 2492  git add .
+ 2493  git commit -m "Added UI Tests for the Newsfeed Filters"
+ 2494  git push
+ 2495  git status
+ 2496  clear
+ 2497  cd Desktop/Code/Spokin/Spokin-iOS
+ 2498  git status
+ 2499  git checkout master
+ 2500  git pull]
+ 2501  git pull
+ 2502  brew install swiftlint
+ 2503  swiftlint
+ 2504  pod install
+ 2505  rm Podfile.lock
+ 2506  pod install
+ 2507  brew uninstall swiftlint
+ 2508  git status
+ 2509  git reset --hard bf99aa7
+ 2510  git status
+ 2511  pod install
+ 2512  git status
+ 2513  cd Desktop
+ 2514  git clone https://github.com/Spokin/Spokin-iOS.git
+ 2515  cd Spokin-iOS
+ 2516  pod install
+ 2517  cd Des
+ 2518  cd Desktop/Spokin-iOS
+ 2519  rm Podfile.lock
+ 2520  pod install
+ 2521  pod deintegrate
+ 2522  pod install
+ 2523  cd Desktop
+ 2524  git clone https://github.com/Spokin/Spokin-iOS.git
+ 2525  cd Spokin-iOS
+ 2526  pod install
+ 2527  cd Desktop/Spokin-iOS
+ 2528  brew install swiftlint
+ 2529  swiftlint
+ 2530  swiftlint lint --config ./Configurations/.swiftlint.yml
+ 2531  cat .swiftlint.yml
+ 2532  vim .swiftlint.yml
+ 2533  brew install swiftlint
+ 2534  vim .swiftlint.yml
+ 2535  cd Desktop/Spokin-iOS
+ 2536  swiftlint autocorrect
+ 2537  git status
+ 2538  git checkout -b mads/swift-lint
+ 2539  git add .
+ 2540  git status
+ 2541  git commit -m "set up swiftlint & started fixing warnings"
+ 2542  git push
+ 2543  git push --set-upstream origin mads/swift-lint
+ 2544  git status
+ 2545  git add .
+ 2546  git commit -m "set up swiftlint & started fixing warnings"
+ 2547  git push
+ 2548  pod install
+ 2549  git status
+ 2550  git add .
+ 2551  git status
+ 2552  git commit -m "Reduced errors to 0 & warnings to 232"
+ 2553  git push
+ 2554  #!/bin/sh\nread x\nread y\nz=`expr $x \* $y`\necho "$z"
+ 2555  cd Desktop/Spokin-iOS/
+ 2556  git status
+ 2557  git checkout mads/newsfeed-quickfilters
+ 2558  git status
+ 2559  pod install
+ 2560  cd Desktop/Spokin-iOS
+ 2561  git status
+ 2562  git checkout master
+ 2563  git pull
+ 2564  cd Desktop/Code/Spokin/SpokinModelFramework/
+ 2565  git status
+ 2566  git add .
+ 2567  git commit -m "Updated list of newsfeed preferences"
+ 2568  git commit --amend
+ 2569  git push
+ 2570  git checkout mads/4219
+ 2571  pod install
+ 2572  git checkout master
+ 2573  git checkout mads/newsfeed-quickfilters
+ 2574  pod install
+ 2575  git reset --HEAD~1
+ 2576  git reset HEAD~1
+ 2577  git revert HEAD~1
+ 2578  git sttaus
+ 2579  git status
+ 2580  git add .
+ 2581  git commit -m "Fixed preferences"
+ 2582  git push
+ 2583  git pull
+ 2584  git reset --hard
+ 2585  git status
+ 2586  git pull
+ 2587  git reset --hard 594c3ea
+ 2588  git status
+ 2589  git add .
+ 2590  git commit -m "Fixed preferences"
+ 2591  git push
+ 2592  cd Lab2
+ 2593  gcc Lab2-Step1.c
+ 2594  ./a.out
+ 2595  clear
+ 2596  gcc Lab2-Step1.c
+ 2597  gcc Lab2-Step2.c
+ 2598  ./a.out 3000
+ 2599  ./a.out 300000
+ 2600  clear
+ 2601  gcc Lab2-Step2.c
+ 2602  ./a.out
+ 2603  clear
+ 2604  gcc Lab2-Step5.c
+ 2605  ./a.out 3
+ 2606  ./a.out 3000 1000 5000 6000
+ 2607  gcc Lab2-Step5.c
+ 2608  ./a.out 3000 1000 5000 6000
+ 2609  clear
+ 2610  gcc Lab2-Step5.c
+ 2611  ./a.out 3000 3000 3000 3000
+ 2612  clear
+ 2613  ./a.out 3000 3000 3000 3000
+ 2614  cd coen177/Lab2
+ 2615  gcc Lab2-Step5.c
+ 2616  ./a.out 3000 3000 3000 3000
+ 2617  clear
+ 2618  gcc Lab2-Step1.c -o 1
+ 2619  gcc Lab2-Step3.c -o 3
+ 2620  gcc Lab2-Step3.c clear-o 3
+ 2621  clear
+ 2622  gcc Lab2-Step5.c -o 5
+ 2623  ./5
+ 2624  ./5 1000 1000 1000 1000
+ 2625  gcc Lab2-Step6.c -o 6
+ 2626  clear
+ 2627  ./6 1000 1000 1000 1000 1000
+ 2628  clear
+ 2629  gcc Lab2-Step7.c -o 7
+ 2630  ./7
+ 2631  gcc Lab2-Step8.c -o 8
+ 2632  clear
+ 2633  gcc Lab2-Step8.c -o 8
+ 2634  clear
+ 2635  gcc Lab2-Step8.c -o 8
+ 2636  clear
+ 2637  gcc Lab2-Step8.c -o 8
+ 2638  clear
+ 2639  make all
+ 2640  make
+ 2641  clear
+ 2642  make
+ 2643  sh Lab2.sh
+ 2644  clear
+ 2645  sh Lab2.sh
+ 2646  clear
+ 2647  make
+ 2648  sh Lab2.sh
+ 2649  cd coen177
+ 2650  git status
+ 2651  git add .
+ 2652  git status
+ 2653  git commit -m "Finished Lab 2"
+ 2654  git push
+ 2655  python3 hw1-problem3.py
+ 2656  clear
+ 2657  python3 hw1-problem3.py
+ 2658  clear
+ 2659  python3 hw1-problem3.py
+ 2660  clear
+ 2661  python3 hw1-problem3.py
+ 2662  clear
+ 2663  python3 hw1-problem3.py
+ 2664  clear
+ 2665  python3 hw1-problem3.py
+ 2666  clear
+ 2667  python3 hw1-problem3.py
+ 2668  clear
+ 2669  python3 hw1-problem2.py
+ 2670  clear
+ 2671  python3 hw1-problem2.py
+ 2672  clear
+ 2673  cd Desktop/Spokin-iOS
+ 2674  git status
+ 2675  git add .
+ 2676  git status
+ 2677  git commit -m "Adjusted button sizes to be dynamic based on text size, took away 'select/deselect all' buttons, and changed text at top of preferences screen."
+ 2678  git push
+ 2679  git status
+ 2680  git commit -m "added a bit more space to quickfilter bar"
+ 2681  git add .
+ 2682  git commit -m "added a bit more space to quickfilter bar"
+ 2683  git push
+ 2684  cd Desktop/Spokin-iOS
+ 2685  xcodebuild build Stag
+ 2686  xcodebuild build Spokin
+ 2687  xcodebuild build
+ 2688  cd Desktop/Spokin-iOS
+ 2689  git status
+ 2690  git add .
+ 2691  git status
+ 2692  git commit -m "Made continue button thinner"
+ 2693  git push
+ 2694  cd coen177
+ 2695  ls
+ 2696  cd Lab2
+ 2697  ls
+ 2698  sh Lab2.sh
+ 2699  clear
+ 2700  make
+ 2701  sh Lab2.sh
+ 2702  clear
+ 2703  sh Lab2.sh
+ 2704  cd Desktop/Spokin-iOS
+ 2705  git status
+ 2706  git stash
+ 2707  git status
+ 2708  git checkout master
+ 2709  git checkout mads/swift-lint
+ 2710  touch .github/workflows/swiftlint.yml
+ 2711  vim .github/workflows/swiftlint.yml
+ 2712  git status
+ 2713  git add .
+ 2714  git commit -m "add github workflow"
+ 2715  git push
+ 2716  ls
+ 2717  pod install
+ 2718  git status
+ 2719  git restore .swiftlint.yml
+ 2720  git status
+ 2721  git pull
+ 2722  pod install
+ 2723  pod deintegrate
+ 2724  pod install
+ 2725  git status
+ 2726  git add .
+ 2727  git commit -m "introducing error to test"
+ 2728  git push
+ 2729  git status
+ 2730  git add .
+ 2731  git commit -m "Reset line length after testing failure"
+ 2732  git push
+ 2733  git checkout master
+ 2734  git pull
+ 2735  git checkout mads/newsfeed-quickfilters
+ 2736  git stash pop
+ 2737  pod install
+ 2738  pod deintegrate
+ 2739  pod install
+ 2740  git status
+ 2741  git add .
+ 2742  git commit -m "Removed logic for filtering"
+ 2743  git push
+ 2744  git pull origin master
+ 2745  git config pull.rebase false
+ 2746  git pull origin master
+ 2747  git status
+ 2748  git restore Spokin.xcodeproj/project.pbxproj
+ 2749  git pull origin master
+ 2750  git add .
+ 2751  git status
+ 2752  git commit -m "merge w main"
+ 2753  git push
+ 2754  git reset HEAD~1
+ 2755  git status
+ 2756  git reset HEAD~1
+ 2757  git reset HEAD~2
+ 2758  git reset --hard
+ 2759  git reset --hard 09672f9c120e4d14b9a542058a5435ef3ac04f38
+ 2760  git pull origin master --theirs
+ 2761  git pull origin master -X theirs
+ 2762  pod deintegrate
+ 2763  pod install
+ 2764  git status
+ 2765  git add .
+ 2766  git commit -m "Merged with swiftlint master"
+ 2767  git push -f
+ 2768  cd Desktop/Spokin-iOS
+ 2769  git checkout master
+ 2770  git pull
+ 2771  git checkout -b mads/readme
+ 2772  touch readme.md
+ 2773  ls
+ 2774  xcode-select -p
+ 2775  cd Desktop/Spokin-iOS
+ 2776  git status
+ 2777  git add readme.md
+ 2778  git status
+ 2779  git commit -m "Created readme with instructions for how to set up/run/build project, as well as diagnose different errors"
+ 2780  git add .
+ 2781  git status
+ 2782  git commit --amend
+ 2783  git status
+ 2784  git push
+ 2785  git push --set-upstream origin mads/readme
+ 2786  cd Desktop/Spokin-iOS
+ 2787  git status
+ 2788  git checkout master
+ 2789  git status
+ 2790  git checkout -b mads/swift-lint-fix-warnings
+ 2791  git status
+ 2792  git add .
+ 2793  git status
+ 2794  git commit -m "Started fixing force cast violations"
+ 2795  git push
+ 2796  git push --set-upstream origin mads/swift-lint-fix-warnings
+ 2797  cd Desktop/Spokin-iOS
+ 2798  git status
+ 2799  git add .
+ 2800  git status
+ 2801  git commit -m "Continued fixing force unwrapping"
+ 2802  git push
+ 2803  gcc Lab3-Step1.c
+ 2804  cd Lab3
+ 2805  gcc Lab3-Step1.c
+ 2806  ./a.out
+ 2807  gcc Lab3-Step1.c
+ 2808  ./a.out
+ 2809  gcc Lab3-Step2.c
+ 2810  ./a.out
+ 2811  gcc Lab3-Step7.c
+ 2812  ./a.out
+ 2813  gcc Lab3-Step8.c
+ 2814  ./a.out
+ 2815  gcc Lab3-Step8.c
+ 2816  ./a.out
+ 2817  gcc Lab3-Step8.c
+ 2818  ./a.out
+ 2819  clear
+ 2820  gcc Lab3-Step3.c
+ 2821  ./a.out
+ 2822  gcc Lab3-Step4.c
+ 2823  ./a.out
+ 2824  gcc Lab3-Step5.c
+ 2825  ./a.out
+ 2826  gcc Lab3-Step2.c
+ 2827  cd Lab3
+ 2828  gcc Lab3-Step2.c
+ 2829  ./a.out
+ 2830  cd Desktop/Spokin-iOS
+ 2831  git status
+ 2832  git add .
+ 2833  git status
+ 2834  git commit -m "Got warnings down to 64"
+ 2835  git push
+ 2836  gcc Lab3-Step6.c
+ 2837  ./a.out
+ 2838  clear
+ 2839  ./a.out
+ 2840  clear
+ 2841  make
+ 2842  clear
+ 2843  sh Lab3.sh
+ 2844  cd Desktop/Spokin-iOS
+ 2845  cd Lab3
+ 2846  cd
+ 2847  ls
+ 2848  cd coen177/Lab3
+ 2849  clear
+ 2850  sh Lab3.sh
+ 2851  ./5
+ 2852  clear
+ 2853  cd coen177/Lab3
+ 2854  ls
+ 2855  make
+ 2856  clear
+ 2857  sh Lab3.sh
+ 2858  ./5 hi
+ 2859  ./5 hey
+ 2860  clear
+ 2861  cat /etc/passwd | grep root
+ 2862  clear
+ 2863  sh Lab3-2.sh
+ 2864  clear
+ 2865  sh Lab3.sh
+ 2866  clear
+ 2867  sh Lab3.sh
+ 2868  sh Lab3-2.sh
+ 2869  ls - l | more
+ 2870  ls
+ 2871  ls -l
+ 2872  ls - l | more
+ 2873  ls -l | more
+ 2874  ./2
+ 2875  ./2 hi
+ 2876  ./3
+ 2877  make
+ 2878  ./1
+ 2879  cd coen177/Lab3
+ 2880  ./1
+ 2881  ls | more
+ 2882  ./2
+ 2883  ./7
+ 2884  /opt/homebrew/bin/python3.11
+ 2885  clear
+ 2886  python3 hw3-problem1.py
+ 2887  cd Desktop/Spokin-iOS
+ 2888  git status
+ 2889  git checkout master
+ 2890  git pull
+ 2891  pod install
+ 2892  git checkout mads/newsfeed-quickfilters
+ 2893  pod deintegrate
+ 2894  pod install
+ 2895  clear
+ 2896  cd
+ 2897  cd Desktop
+ 2898  git clone https://github.com/Spokin/Spokin-iOS.git
+ 2899  cd Desktop/Spokin-iOS
+ 2900  pod install
+ 2901  git checkout mads/newsfeed-quickfilters
+ 2902  pod install
+ 2903  cd
+ 2904  clear
+ 2905  git clone https://github.com/Spokin/Spokin-iOS.git
+ 2906  cd Spokin-iOS
+ 2907  pod install
+ 2908  cd Spokin-iOS
+ 2909  pod install
+ 2910  cd Spokin-iOS
+ 2911  git checkout mads/newsfeed-quickfilters
+ 2912  git stash
+ 2913  git checkout mads/newsfeed-quickfilters
+ 2914  git status
+ 2915  pod install
+ 2916  git status
+ 2917  git add .
+ 2918  git commit -m "Fixed buttons disappearing in preferences when you scroll"
+ 2919  git status
+ 2920  git push
+ 2921  git status
+ 2922  git add .
+ 2923  git commit -m "Added filter to API call"
+ 2924  git push
+ 2925  git status
+ 2926  git add .
+ 2927  git commit -m "incremented version #"
+ 2928  git push
+ 2929  git checkout master
+ 2930  git pull
+ 2931  git checkout -b mads/newsfeed-carousel
+ 2932  git status
+ 2933  git push
+ 2934  git push --set-upstream origin mads/newsfeed-carousel
+ 2935  python3 hw3-problem1.py
+ 2936  clear
+ 2937  python3 hw3-problem1.py
+ 2938  clear
+ 2939  python3 hw3-problem1.py
+ 2940  clear
+ 2941  python3 hw3-problem1.py
+ 2942  clear
+ 2943  python3 hw3-problem1.py
+ 2944  cd Spokin-iOS
+ 2945  git checkout master
+ 2946  git pull
+ 2947  pod install
+ 2948  git status
+ 2949  git checkout -b mads/4286
+ 2950  git status
+ 2951  git add .
+ 2952  git commit -m "Disabled ability to cut/paste in the DOB text field"
+ 2953  git push
+ 2954  git push --set-upstream origin mads/4286
+ 2955  git checkout master
+ 2956  git checkout mads/newsfeed-quickfilters
+ 2957  git checkout mads/4286
+ 2958  git pull
+ 2959  git status
+ 2960  git add .
+ 2961  git commit -m "Also disabled cut/paste for gender text field"
+ 2962  git push
+ 2963  git checkout master
+ 2964  git pull
+ 2965  git checkout mads/newsfeed-quickfilters
+ 2966  git statu
+ 2967  git status
+ 2968  pod install
+ 2969  git status
+ 2970  git add .
+ 2971  git commit -m "Added API call with agreed upon querystrings for backend filtering"
+ 2972  git push
+ 2973  git checkout master
+ 2974  git pull
+ 2975  clear
+ 2976  cd ../Lab4
+ 2977  gcc Lab4-Step1.c
+ 2978  ./a.out
+ 2979  gcc Lab4-Step4.c
+ 2980  clear
+ 2981  gcc Lab4-Step4.c
+ 2982  clear
+ 2983  gcc Lab4-Step4.c
+ 2984  clear
+ 2985  gcc Lab4-Step4.c
+ 2986  clear
+ 2987  gcc Lab4-Step4.c
+ 2988  clear
+ 2989  gcc Lab4-Step4.c
+ 2990  clear
+ 2991  gcc Lab4-Step4.c
+ 2992  clear
+ 2993  gcc Lab4-Step4.c
+ 2994  clear
+ 2995  gcc Lab4-Step4.c
+ 2996  clear
+ 2997  gcc Lab4-Step4.c
+ 2998  clear
+ 2999  ./a.out
+ 3000  gcc Lab4-Step4.c
+ 3001  clear
+ 3002  gcc Lab4-Step4.c
+ 3003  ./a.out
+ 3004  gcc Lab4-Step4.c
+ 3005  ./a.out
+ 3006  gcc Lab4-Step4.c
+ 3007  ./a.out
+ 3008  ./a.out 2 3 2
+ 3009  gcc Lab4-Step4.c
+ 3010  ./a.out 2 3 2
+ 3011  gcc Lab4-Step4.c
+ 3012  clear
+ 3013  gcc Lab4-Step4.c
+ 3014  ./4 2 2 2
+ 3015  ./a.out 2 2 2
+ 3016  clear
+ 3017  gcc Lab4-Step4.c
+ 3018  ./a.out 2 2 2
+ 3019  ./a.out 30 30 30
+ 3020  gcc Lab4-Step4.c
+ 3021  ./a.out 30 30 30
+ 3022  gcc Lab4-Step4.c
+ 3023  ./a.out 30 30 30
+ 3024  gcc Lab4-Step4.c
+ 3025  ./a.out 30 30 30
+ 3026  ./a.out
+ 3027  ./a.out 2 2 2
+ 3028  clear
+ 3029  gcc Lab4-Step4.c
+ 3030  ./a.out 2 2 2
+ 3031  gcc Lab4-Step4.c
+ 3032  ./a.out 2 2 2
+ 3033  gcc Lab4-Step5.c
+ 3034  clear
+ 3035  gcc Lab4-Step5.c
+ 3036  ./a.out 2 2 2
+ 3037  gcc Lab4-Step5.c
+ 3038  ./a.out 2 2 2
+ 3039  gcc Lab4-Step5.c
+ 3040  ./a.out 2 2 2
+ 3041  gcc Lab4-Step5.c
+ 3042  ./a.out 2 2 2
+ 3043  ./a.out 30 30 30
+ 3044  python hw3-problem1.py
+ 3045  python3 hw3-problem1.py
+ 3046  clear
+ 3047  python3 hw3-problem1.py
+ 3048  clear
+ 3049  python3 hw3-problem1.py
+ 3050  clear
+ 3051  python3 hw3-problem1.py
+ 3052  clear
+ 3053  python3 hw3-problem1.py
+ 3054  clear
+ 3055  python3 hw3-problem1.py
+ 3056  cd Spokin-iOS
+ 3057  git checkout mads/4128
+ 3058  pod install
+ 3059  git status
+ 3060  git pull origin master
+ 3061  git config pull.rebase false
+ 3062  git pull origin master
+ 3063  git statu
+ 3064  git add .
+ 3065  git commit -m "modified pod file"
+ 3066  git push
+ 3067  git pull origin master
+ 3068  git merge -X theirs
+ 3069  git status
+ 3070  git add .
+ 3071  git commit -m "merge"
+ 3072  git push
+ 3073  pod install
+ 3074  cd Spokin-iOS
+ 3075  git status
+ 3076  git add .
+ 3077  git commit -m "Created test for parent w/ 1 child w/ allergies"
+ 3078  git push
+ 3079  cd Spokin-iOS
+ 3080  git status
+ 3081  git add .
+ 3082  git commit -m "Added tests for parents of 2 & 3 children"
+ 3083  git push
+ 3084  git status
+ 3085  clear
+ 3086  gcc Lab4-Step5.c
+ 3087  ./5 2 2 2
+ 3088  ./a.out 2 2 2
+ 3089  gcc Lab4-Step5.c
+ 3090  ./5 2 2 2
+ 3091  ./a.out 2 2 2
+ 3092  ./a.out 2 3 2
+ 3093  ./5 2 2 2
+ 3094  ./a.out 2 3 2
+ 3095  gcc Lab4-Step5.c
+ 3096  ./a.out 2 3 2
+ 3097  git clone https://github.com/Spokin/SpokinModelFramework.git
+ 3098  cd SpokinModelFramework
+ 3099  git status
+ 3100  git checkout -b mads/swiftlint
+ 3101  git status
+ 3102  pod install
+ 3103  clear
+ 3104  make
+ 3105  ./1
+ 3106  clear
+ 3107  sh Lab4.sh
+ 3108  ./5 2 3 3
+ 3109  ./5 2 3 2
+ 3110  clear
+ 3111  pod install
+ 3112  clear
+ 3113  pod instal
+ 3114  pod install
+ 3115  pod deintegrate
+ 3116  pod install
+ 3117  git status
+ 3118  git add .
+ 3119  git status
+ 3120  git commit -m "Enabled swiftlint github workflow"
+ 3121  git status
+ 3122  git push
+ 3123  git push --set-upstream origin mads/swiftlint
+ 3124  cd ../Spokin-iOS
+ 3125  git checkout master
+ 3126  git pull
+ 3127  pod install
+ 3128  cd Spokin-iOS
+ 3129  cd coen177
+ 3130  ls
+ 3131  clear
+ 3132  ./1
+ 3133  cd Lab4
+ 3134  ./1
+ 3135  clear
+ 3136  make
+ 3137  sh Lab4.sh
+ 3138  clear
+ 3139  make
+ 3140  sh Lab4.sh
+ 3141  clear
+ 3142  make
+ 3143  sh Lab4.sh
+ 3144  clear
+ 3145  sh Lab4.sh
+ 3146  git clone https://github.com/Spokin/Pusher.git
+ 3147  git fetch origin
+ 3148  cd Pusher
+ 3149  git fetch origin
+ 3150  git checkout BaseRefactor
+ 3151  git pull
+ 3152  cd ../Spokin-iOS
+ 3153  pod update
+ 3154  git checkout mads/newsfeed-quickfilters
+ 3155  git stash
+ 3156  git checkout mads/newsfeed-quickfilters
+ 3157  pod update
+ 3158  git status
+ 3159  git add .
+ 3160  git status
+ 3161  git add .
+ 3162  git commit -m "Added flag for filters on/off"
+ 3163  git push
+ 3164  git status
+ 3165  git add .
+ 3166  git commit -m "Added flag for filters on/off"
+ 3167  git push
+ 3168  git status
+ 3169  git add .
+ 3170  git commit -m "Fixed glitch of preferences buttons"
+ 3171  git push
+ 3172  git status
+ 3173  git add .
+ 3174  git commit -m "Fixed glitch of preferences buttons"
+ 3175  git push
+ 3176  git checkout master
+ 3177  git pull
+ 3178  git checkout mads/newsfeed-quickfilters
+ 3179  git checkout master
+ 3180  git pull
+ 3181  git checkout mads/4127
+ 3182  git checkout -b mads/4127
+ 3183  git status
+ 3184  git add .
+ 3185  git status
+ 3186  git commit -m "Added ZipCode test"
+ 3187  git push
+ 3188  git push --set-upstream origin mads/4127
+ 3189  git checkout master
+ 3190  git pull
+ 3191  git checkout -b mads/4135
+ 3192  git pull mads/4128
+ 3193  clear
+ 3194  git checkout master
+ 3195  git checkout mads/4128
+ 3196  git status
+ 3197  pod install
+ 3198  git status
+ 3199  git add .
+ 3200  git commit -m "Also added tests for caregivers"
+ 3201  git push
+ 3202  git checkout master
+ 3203  git checkout -b mads/4136
+ 3204  pod install
+ 3205  git status
+ 3206  git add .
+ 3207  git commit -m "Added tests for all specialties"
+ 3208  git push
+ 3209  git push --set-upstream origin mads/4136
+ 3210  git checkout master
+ 3211  git pull
+ 3212  git checkout mads/newsfeed-carousel
+ 3213  git pull origin master
+ 3214  cd Spokin-iOS
+ 3215  pod install
+ 3216  cd Spokin-iOS
+ 3217  git status
+ 3218  git add .
+ 3219  git commit -m "initial carousel design"
+ 3220  git push
+ 3221  cd Spokin-iOS
+ 3222  git checkout master
+ 3223  git pull
+ 3224  git status
+ 3225  git checkout -b mads/4194
+ 3226  git status
+ 3227  git add .
+ 3228  gst
+ 3229  git commit -m "Broke mapView function into smaller functions"
+ 3230  git push
+ 3231  git push --set-upstream origin mads/4194
+ 3232  git status
+ 3233  pod install
+ 3234  git status
+ 3235  git add .
+ 3236  git commit -m "modified podfile"
+ 3237  git push
+ 3238  git checkout master
+ 3239  git pull
+ 3240  pod install
+ 3241  git checkout -b mads/4193
+ 3242  git status
+ 3243  git add .
+ 3244  git commit -m "Split up override func configure(with item: FeedViewModelRowItem) into smaller functions within class MetadataTableViewCell"
+ 3245  git push
+ 3246  git push --set-upstream origin mads/4193
+ 3247  git pull master
+ 3248  git checkout master
+ 3249  git pull
+ 3250  pod install
+ 3251  git status
+ 3252  git checkout mads/4132
+ 3253  git checkout -b mads/4132
+ 3254  git status
+ 3255  git add .
+ 3256  git status
+ 3257  git commit -m "Added test for random emoji"
+ 3258  git push
+ 3259  git push --set-upstream origin mads/4132
+ 3260  git checkout master
+ 3261  git pull
+ 3262  cd Spokin-iOS
+ 3263  git checkout mads/newsfeed-quickfilters
+ 3264  pod install
+ 3265  git status
+ 3266  git add .
+ 3267  git commit -m "Fixed button sizing for accesibility font sizes"
+ 3268  git push
+ 3269  cd coen177
+ 3270  cd Lab4
+ 3271  ./1
+ 3272  cd coen177
+ 3273  git status
+ 3274  git add .
+ 3275  git commit -m "Lab 3 & 4"
+ 3276  git push
+ 3277  cd ..
+ 3278  cd csci181
+ 3279  ls
+ 3280  echo "# CSCI-181" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/maddiewaldie/CSCI-181.git\ngit push -u origin main
+ 3281  git status
+ 3282  git add .
+ 3283  git commit -m "hw for csci 181"
+ 3284  git push
+ 3285  list the ten bits aout[3][1][15 . . . 24].
+ 3286  clear
+ 3287  python3 hw4-sha3.py
+ 3288  clear
+ 3289  python3 hw4-sha3.py
+ 3290  clear
+ 3291  python3 hw4-sha3.py
+ 3292  cd csci181
+ 3293  python3 hw4-sha3.py
+ 3294  cd Spokin-iOS
+ 3295  git status
+ 3296  git add .
+ 3297  git commit -m "got filters working"
+ 3298  git push
+ 3299  git status
+ 3300  git add .
+ 3301  git commit -m "Fix issue with Near Me + Similar Allergies getting truncated in quickfilter bar when selected"
+ 3302  git push
+ 3303  git checkout master
+ 3304  cd Spokin-iOS
+ 3305  git checkout master
+ 3306  git status
+ 3307  git add .
+ 3308  git commit -m "incremented version #"
+ 3309  git push
+ 3310  git checkout master
+ 3311  git pull
+ 3312  git checkout mads/newsfeed-quickfilters
+ 3313  git pull origin master
+ 3314  git pull -X theirs
+ 3315  git status
+ 3316  git reset HEAD
+ 3317  git status
+ 3318  git reset --hard HEAD
+ 3319  git sttaus
+ 3320  git status
+ 3321  git pull origin master -X theirs
+ 3322  git stash
+ 3323  git pull origin master -X theirs
+ 3324  pod install
+ 3325  cd Spokin
+ 3326  pod install
+ 3327  cd Spokin-iOS
+ 3328  pod install
+ 3329  cd Spokin-iOS
+ 3330  git status
+ 3331  git checkout master
+ 3332  cd Lab5
+ 3333  make
+ 3334  gcc Lab5-Step3.c -o 3
+ 3335  ./3
+ 3336  make
+ 3337  cd coen177
+ 3338  cd Lab5
+ 3339  sh Lab5.sh
+ 3340  clear
+ 3341  sh Lab5.sh
+ 3342  ./5
+ 3343  cd coen177
+ 3344  git status
+ 3345  git add .
+ 3346  git commit -m "Lab 5"
+ 3347  git push
+ 3348  clear
+ 3349  python hw4-sha3.py
+ 3350  python3 hw4-sha3.py
+ 3351  clear
+ 3352  python3 hw4-sha3.py
+ 3353  clear
+ 3354  python3 hw4-sha3.py
+ 3355  clear
+ 3356  python3 hw4-sha3.py
+ 3357  clear
+ 3358  python3 hw4-sha3.py
+ 3359  clear
+ 3360  python3 hw4-sha3.py
+ 3361  clear
+ 3362  python3 hw4-sha3.py
+ 3363  clear
+ 3364  python3 hw4-sha3.py
+ 3365  cd coen177
+ 3366  cd Lab5
+ 3367  ./3
+ 3368  ./milk1
+ 3369  ./milk2
+ 3370  ./milk3
+ 3371  clear
+ 3372  ./3
+ 3373  ./4
+ 3374  ./5
+ 3375  ./4
+ 3376  make
+ 3377  ./4
+ 3378  make
+ 3379  ./4
+ 3380  clear
+ 3381  make
+ 3382  ./4
+ 3383  make
+ 3384  ./4
+ 3385  clear
+ 3386  ./4
+ 3387  ./5
+ 3388  clear
+ 3389  ./3
+ 3390  ./4
+ 3391  ./5
+ 3392  clear
+ 3393  ./thread
+ 3394  clear
+ 3395  ./3
+ 3396  ./4
+ 3397  ./5
+ 3398  cd coen177
+ 3399  cd Lab5
+ 3400  ./milk1
+ 3401  clear
+ 3402  ./milk2
+ 3403  ./milk3
+ 3404  ./milk4
+ 3405  ./thread
+ 3406  python3 hw4-sha3.py
+ 3407  git status
+ 3408  cd Spokin-iOS
+ 3409  git status
+ 3410  git add .
+ 3411  git status
+ 3412  git add .
+ 3413  git commit -m "Added pop up for quickfilters"
+ 3414  git status
+ 3415  git push
+ 3416  cd Spokin-iOS
+ 3417  git checkout master
+ 3418  git pull
+ 3419  pod install
+ 3420  cd Spokin-iOS
+ 3421  git checkout mads/newsfeed-quickfilters
+ 3422  git status
+ 3423  pod install
+ 3424  git status
+ 3425  git add .
+ 3426  git commit -m "Fixed cruises & colleges sometimes being cut off"
+ 3427  git push
+ 3428  git status
+ 3429  git add .
+ 3430  git commit -m "Updated version #"
+ 3431  git push
+ 3432  clear
+ 3433  python3 hw5.py
+ 3434  clear
+ 3435  python3 hw5.py
+ 3436  clear
+ 3437  python3 hw5.py
+ 3438  clear
+ 3439  python3 hw5.py
+ 3440  setup vmware
+ 3441  cd Spokin-iOS
+ 3442  git status
+ 3443  git add .
+ 3444  git commit -m "Fix issue where top line of top card is blocked by quickfilter bar & Make point on pop up point to the quickfilter bar"
+ 3445  git push
+ 3446  cd Spokin-iOS
+ 3447  git checkout master
+ 3448  git pull
+ 3449  git checkout mads/newsfeed-carousel
+ 3450  pod install
+ 3451  git status
+ 3452  git add .
+ 3453  git status
+ 3454  git add .
+ 3455  git commit -m "Finished v1 of places to explore carousel class & started spokin guides carousel\n"
+ 3456  git push
+ 3457  cd Spokin-iOS
+ 3458  git status
+ 3459  git add .
+ 3460  git commit -m "Added storyboards for spokin guide carousel & review carousel"
+ 3461  git status
+ 3462  git push
+ 3463  git status
+ 3464  git add .
+ 3465  git commit -m "Added files for spokin guide & review carousel components - they're empty right now, though"
+ 3466  git push
+ 3467  git status
+ 3468  git add .
+ 3469  git commit -m "Added code for review & spokin guide carousels"
+ 3470  git push
+ 3471  git status
+ 3472  git checkout mads/newsfeed-quickfilters
+ 3473  pod install
+ 3474  git checkout master
+ 3475  git status
+ 3476  git add .
+ 3477  git status
+ 3478  git commit -m "incremented version number"
+ 3479  git push
+ 3480  git checkout master
+ 3481  git pull
+ 3482  git checkout -b mads/4131
+ 3483  git status
+ 3484  pod install
+ 3485  pod install --repo-update
+ 3486  git status
+ 3487  git add .
+ 3488  git commit -m "Added test"
+ 3489  git push
+ 3490  git push --set-upstream origin mads/4131
+ 3491  git checkout master
+ 3492  git pull
+ 3493  git checkout -b mads/4133
+ 3494  git checkout master
+ 3495  git checkout mads/newsfeed-carousel
+ 3496  pod install
+ 3497  clear
+ 3498  cd ..
+ 3499  cd Lab7
+ 3500  git status
+ 3501  clear
+ 3502  make
+ 3503  bash Lab7-Step4.sh
+ 3504  clear
+ 3505  gcc Lab7-Step1.c
+ 3506  ./a.out
+ 3507  ./a.out 10
+ 3508  ./a.out 100 10
+ 3509  ./a.out 500 10
+ 3510  bash Lab7-Step4.sh
+ 3511  ./a.out 1000 10
+ 3512  gcc Lab7-Step1.c
+ 3513  ./a.out 1000 10
+ 3514  ./a.out 1000 1000
+ 3515  gcc Lab7-Step1.c
+ 3516  ./a.out 10000 10000
+ 3517  bash Lab7-Step4.sh
+ 3518  make
+ 3519  bash Lab7-Step4.sh
+ 3520  make
+ 3521  bash Lab7-Step4.sh
+ 3522  make
+ 3523  bash Lab7-Step4.sh
+ 3524  clear
+ 3525  bash Lab7-Step4.sh
+ 3526  clear
+ 3527  cd coen177
+ 3528  cd Lab7
+ 3529  bash Lab7-Step4.sh
+ 3530  clear
+ 3531  gcc Lab7-Step1.c
+ 3532  ./a.out 100 100
+ 3533  bash Lab7-Step4.sh
+ 3534  clear
+ 3535  ./a.out 10000 100
+ 3536  gcc Lab7-Step1.c
+ 3537  ./a.out 10000 100
+ 3538  gcc Lab7-Step1.c
+ 3539  ./a.out 100 100
+ 3540  bash Lab7-Step4.sh
+ 3541  clear
+ 3542  cd Spokin-iOS
+ 3543  git status
+ 3544  git add .
+ 3545  git commit -m "Trying to get carousel to show up in newsfeed"
+ 3546  cd Spokin-iOS
+ 3547  git status
+ 3548  git push
+ 3549  cd Spokin-iOS
+ 3550  git status
+ 3551  git add .
+ 3552  git commit -m "Added Share a Review card to the carousel"
+ 3553  git push
+ 3554  git status
+ 3555  git add .
+ 3556  git commit -m "Added mock carousel to newsfeed :)"
+ 3557  git push
+ 3558  cd Spokin
+ 3559  cd Spokin-iOS
+ 3560  git status
+ 3561  git add .
+ 3562  git commit -m "Got places to explore carousel to show up in the newsfeed"
+ 3563  git push
+ 3564  clear
+ 3565  cd coen177
+ 3566  cd Lab7
+ 3567  sh Lab7-Step4.sh
+ 3568  clear
+ 3569  cd coen177
+ 3570  cd Lab7
+ 3571  gcc Lab7-Step1.c
+ 3572  ./a.out 1000 1000
+ 3573  sh Lab7-Step4.sh
+ 3574  cd coen177/Lab7
+ 3575  sh Lab7-Step4.sh
+ 3576  cd Spokin-iOS
+ 3577  git status
+ 3578  git add .
+ 3579  git commit -m "Trying to get spokin guides carousel to show up"
+ 3580  git push
+ 3581  git status
+ 3582  git add .
+ 3583  git commit -m "Added class for share a review card"
+ 3584  git push
+ 3585  cd Spokin-iOS
+ 3586  git checkout mads/newsfeed-quickfilters
+ 3587  pod install
+ 3588  git status
+ 3589  git add .
+ 3590  git commit -m "Added pop up for quick filters"
+ 3591  git push
+ 3592  git status
+ 3593  git add .
+ 3594  git commit -m "Fixed colleges not always showing up"
+ 3595  git push
+ 3596  git status
+ 3597  cd coen177/Lab7
+ 3598  sh Lab7-Step4.sh
+ 3599  clear
+ 3600  cd ..
+ 3601  cd Lab8
+ 3602  clear
+ 3603  sh step1.sh
+ 3604  sh step1-2.sh
+ 3605  sh step1.sh
+ 3606  sh step1-2.sh
+ 3607  clear
+ 3608  gcc step2.c
+ 3609  clear
+ 3610  gcc step2.c step2
+ 3611  gcc step2.c -o step2
+ 3612  sh step2.sh
+ 3613  gcc step3.c -o step3
+ 3614  sh step3.sh
+ 3615  clear
+ 3616  cd Spokin-iOS
+ 3617  git status
+ 3618  git checkout mads/newsfeed-carousel
+ 3619  git status
+ 3620  pod install
+ 3621  git checkout mads/newsfeed-quickfilters
+ 3622  pod install
+ 3623  git status
+ 3624  git add .
+ 3625  git commit -m "Added correct icon for pop up"
+ 3626  git push
+ 3627  git status
+ 3628  git add .
+ 3629  git commit -m "Changed version number"
+ 3630  git push
+ 3631  git checkout master
+ 3632  git pull
+ 3633  pod install
+ 3634  echo "# COEN-122" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/maddiewaldie/COEN-122.git\ngit push -u origin main
+ 3635  git add .
+ 3636  git commit -m "control unit"
+ 3637  git push
+ 3638  git add .
+ 3639  git commit -m "ALU"
+ 3640  git push
+ 3641  git add .
+ 3642  git commit -m "Added more files"
+ 3643  git push
+ 3644  git add .
+ 3645  git commit -m "control unit"
+ 3646  git push
+ 3647  git add .
+ 3648  git commit -m "And and or gates"
+ 3649  git push
+ 3650  git add .
+ 3651  git commit -m "Fixed or gate"
+ 3652  git push
+ 3653  git status
+ 3654  git add .
+ 3655  git commit -m "Added files for buffers"
+ 3656  git status
+ 3657  git reset HEAD~1
+ 3658  gut status
+ 3659  git add .
+ 3660  git status
+ 3661  git add .
+ 3662  git status
+ 3663  git pull
+ 3664  git commit -m "Buffer, IM, Reg"
+ 3665  git push
+ 3666  git status
+ 3667  git add .
+ 3668  git commit -m "Fixed alu"
+ 3669  git push
+ 3670  git status
+ 3671  git add .
+ 3672  git commit -m "Added sign extend module"
+ 3673  git push
+ 3674  git status
+ 3675  git add .
+ 3676  git commit -m "Added program counter"
+ 3677  git push
+ 3678  git add .
+ 3679  git commit -m "Fixed pc"
+ 3680  git push
+ 3681  gcc step1.c
+ 3682  gcc step2.c
+ 3683  gcc step2.c -o step2
+ 3684  sh step2.sh
+ 3685  gcc step3.c -o step3
+ 3686  sh step3.sh
+ 3687  clear
+ 3688  gcc step4.c -o step4
+ 3689  sh step4.sh
+ 3690  gcc step5.c -o step5
+ 3691  sh step5.sh
+ 3692  clear
+ 3693  sh run.sh
+ 3694  cd coen177/Lab8
+ 3695  sh run.sh
+ 3696  clear
+ 3697  sh run.sh
+ 3698  ckear
+ 3699  clear
+ 3700  sh run.sh
+ 3701  clear
+ 3702  sh run.sh
+ 3703  cd coen177/Lab8
+ 3704  sh run.sh
+ 3705  step1-2.sh
+ 3706  sh step1-2.sh
+ 3707  sh step2.sh
+ 3708  clear
+ 3709  sh step3.sh
+ 3710  clear
+ 3711  sh step4.sh
+ 3712  clear
+ 3713  sh step5.sh
+ 3714  clear
+ 3715  make
+ 3716  git status
+ 3717  git add .
+ 3718  git commit -m "Labs 7 & 8"
+ 3719  git push
+ 3720  cd Spokin-iOS
+ 3721  git checkout mads/newsfeed-quickfilters
+ 3722  pod install
+ 3723  cd Spokin-iOS
+ 3724  git status
+ 3725  git add .
+ 3726  git commit -m ""
+ 3727  git commit -m "Adjusted preferences"
+ 3728  git push
+ 3729  cd Spokin-iOS
+ 3730  git checkout mads/newsfeed-carousel
+ 3731  git status
+ 3732  git add .
+ 3733  git commit -m "changed version #"
+ 3734  git push
+ 3735  git commit -m "changed version #"
+ 3736  git checkout mads/newsfeed-carousel
+ 3737  pod install
+ 3738  cd Spokin-iOS
+ 3739  git status
+ 3740  git add .
+ 3741  git commit -m "Fully working mock places to explore carousel"
+ 3742  git push
+ 3743  cd Spokin-iOS
+ 3744  git status
+ 3745  git add .
+ 3746  git commit -m "Added connections for review card"
+ 3747  git push
+ 3748  cd Spokin-iOS
+ 3749  git status
+ 3750  git checkout master
+ 3751  git pull
+ 3752  git checkout mads/4133
+ 3753  git pull origin master
+ 3754  pod install
+ 3755  git status
+ 3756  git add .
+ 3757  git commit -m "Added test"
+ 3758  git push
+ 3759  git push --set-upstream origin mads/4133
+ 3760  git checkout master
+ 3761  git pull
+ 3762  git checkout -b mads/4349
+ 3763  git status
+ 3764  git add .
+ 3765  git commit -m "Fixed bug"
+ 3766  git push
+ 3767  git push --set-upstream origin mads/4349
+ 3768  git checkout master
+ 3769  git pull
+ 3770  cd Spokin-iOS
+ 3771  git checkout mads/newsfeed-carousel
+ 3772  pod install
+ 3773  git status
+ 3774  git add .
+ 3775  git commit -m "Fixed constraints & connections"
+ 3776  git status
+ 3777  git add .
+ 3778  git commit -m "Added share a review card"
+ 3779  git push
+ 3780  git status
+ 3781  git add .
+ 3782  git commit -m "Incremented version #"
+ 3783  git push
+ 3784  cd Spokin-iOS
+ 3785  git status
+ 3786  git add .
+ 3787  git commit -m "Working spokin guides carousel"
+ 3788  git push
+ 3789  git status
+ 3790  git add .
+ 3791  git commit -m "Incremented version num"
+ 3792  git push
+ 3793  git pull
+ 3794  git add .
+ 3795  git commit -m "Started testbench"
+ 3796  git push
+ 3797  git status
+ 3798  git add .
+ 3799  git commit -m "Modified testbench"
+ 3800  git pus
+ 3801  git push
+ 3802  cd Spokin-iOS
+ 3803  git status
+ 3804  git add .
+ 3805  git commit -m "Functioning mock review carousel"
+ 3806  git status
+ 3807  git add .
+ 3808  git commit -m "incremented version number"
+ 3809  git push
+ 3810  git pull
+ 3811  git status
+ 3812  git add .
+ 3813  git commit -m "Added muxes"
+ 3814  git push
+ 3815  cd Spokin-iOS
+ 3816  git checkout mads/newsfeed-quickfilters
+ 3817  pod install
+ 3818  git status
+ 3819  git add .
+ 3820  git commit -m "Made font larger & bar less narrow"
+ 3821  git push
+ 3822  git status
+ 3823  git add .
+ 3824  git commit -m "Incremented version number"
+ 3825  git push
+ 3826  git status
+ 3827  git checkout mads/newsfeed-carousel
+ 3828  git status
+ 3829  pod install
+ 3830  git status
+ 3831  git add .
+ 3832  git commit -m "Fixed shadow for photos & text color"
+ 3833  git push
+ 3834  gitgit status
+ 3835  gst
+ 3836  git add .
+ 3837  git commit -m "Added share button"
+ 3838  git push
+ 3839  cd Spokin-iOS
+ 3840  git status
+ 3841  git add .
+ 3842  git commit -m "Added see more button to review card"
+ 3843  git push
+ 3844  cd Spokin-iOS
+ 3845  git pull origin master
+ 3846  git status
+ 3847  git pull origin master
+ 3848  git status
+ 3849  git add .
+ 3850  git status
+ 3851  git commit -m "Merge conflicts"
+ 3852  git status
+ 3853  git add .
+ 3854  git commit -m "Merge conflicts"
+ 3855  pod install
+ 3856  git status
+ 3857  git add .
+ 3858  git commit -m "Fix merge conflicts"
+ 3859  git status
+ 3860  git push
+ 3861  cd Spokin-iOS
+ 3862  git status
+ 3863  git add .
+ 3864  git commit -m "Open to correct map location"
+ 3865  git push
+ 3866  cd Spokin
+ 3867  cd Spokin-iOS
+ 3868  git pull
+ 3869  git status
+ 3870  git add .
+ 3871  git status
+ 3872  git add .
+ 3873  git commit -m "Fixed issue with map"
+ 3874  git push
+ 3875  git status
+ 3876  git add .
+ 3877  git commit -m "updated version no"
+ 3878  git push
+ 3879  git checkout mads/newsfeed-quickfilters
+ 3880  pod install
+ 3881  git status
+ 3882  git add .
+ 3883  git commit -m "Fixed bugs in quickfilters"
+ 3884  git push
+ 3885  git status
+ 3886  git add .
+ 3887  git commit -m "Incremented version number"
+ 3888  git push
+ 3889  git status
+ 3890  git checkout mads/newsfeed-carousel
+ 3891  pod install
+ 3892  git status
+ 3893  git add .
+ 3894  git commit -m "Started fixing review carousel"
+ 3895  git push
+ 3896  git checkout mads/newsfeed-quickfilters
+ 3897  pod install
+ 3898  git status
+ 3899  git add .
+ 3900  git commit -m "Fixed preferences"
+ 3901  git push
+ 3902  git checkout mads/newsfeed-carousels
+ 3903  git checkout mads/newsfeed-carousel
+ 3904  git add .
+ 3905  git status
+ 3906  git commit -m "changed version num"
+ 3907  git pus
+ 3908  git push
+ 3909  git checkout mads/newsfeed-carousel
+ 3910  pod install
+ 3911  git checkout mads/newsfeed-quickfilters
+ 3912  git stash
+ 3913  git checkout mads/newsfeed-quickfilters
+ 3914  pod install
+ 3915  cd SpokinModelFramework
+ 3916  git pull
+ 3917  git branch
+ 3918  git checkout master
+ 3919  git pull
+ 3920  cd Spokin-iOS
+ 3921  git status
+ 3922  git add .
+ 3923  git commit -m "Added logic to keep position of quickfilter bar"
+ 3924  git push
+ 3925  git status
+ 3926  cd Spokin-iOS
+ 3927  git status
+ 3928  git add .
+ 3929  git commit -m "Updated based on QA feedback"
+ 3930  git push
+ 3931  cd csci181
+ 3932  ls
+ 3933  git status
+ 3934  git add .
+ 3935  git commit -m "remaining assignments"
+ 3936  git push
+ 3937  cd coen122
+ 3938  git status
+ 3939  cd coen177
+ 3940  git status
+ 3941  git add .
+ 3942  git commit -m "Last lab"
+ 3943  git push
+ 3944  brew uninstall powerlevel10k
+ 3945  vim ~/.zshrc
+ 3946  clear
+ 3947  cd Desktop
+ 3948  brew uninstall powerlevel10k
+ 3949  mkdir coen-161
+ 3950  clear
+ 3951  ssh linux.dc.engr.scu.edu 
+ 3952  clear
+ 3953  ssh mwaldie@linux.dc.engr.scu.edu
+ 3954  cd Lab\ 1
+ 3955  clear
+ 3956  gcc file_copier.c
+ 3957  clear
+ 3958  gcc file_copier.c
+ 3959  ./a.out
+ 3960  clear
+ 3961  cat file1.txt
+ 3962  touch file1.txt
+ 3963  touc file2.txt
+ 3964  touch file2.txt
+ 3965  ./a.out
+ 3966  gcc file_copier.c
+ 3967  ./a.out
+ 3968  gcc file_copier.c
+ 3969  ./a.out
+ 3970  gcc file_copier.c
+ 3971  clear
+ 3972  gcc file_copier.c
+ 3973  clear
+ 3974  gcc file_copier.c
+ 3975  ./a.out
+ 3976  gcc file_copier.c
+ 3977  clear
+ 3978  ./a.out
+ 3979  clear
+ 3980  ./a.out
+ 3981  clear
+ 3982  gcc file_copier.c
+ 3983  ./a.out
+ 3984  gcc file_copier.c
+ 3985  clear
+ 3986  ./a.out
+ 3987  clear
+ 3988  ./a.out
+ 3989  clear
+ 3990  gcc file_copier.c
+ 3991  ./a.out
+ 3992  clear
+ 3993  gcc file_copier.c
+ 3994  ./a.out
+ 3995  clear
+ 3996  ./a.out
+ 3997  clear
+ 3998  ./a.out
+ 3999  clear
+ 4000  ./a.out
+ 4001  clear
+ 4002  ./a.out
+ 4003  cd coen-146l
+ 4004  cd lab 1
+ 4005  cd Lab\ 1
+ 4006  clear
+ 4007  ls
+ 4008  cat file1.txt
+ 4009  clear
+ 4010  ./a.out
+ 4011  clear
+ 4012  ./a.out
+ 4013  clear
+ 4014  ./a.out
+ 4015  clear
+ 4016  ./a.out
+ 4017  clear
+ 4018  ./a.out
+ 4019  clear
+ 4020  ./a.out
+ 4021  clear
+ 4022  ./a.out
+ 4023  clear
+ 4024  ./a.out
+ 4025  clear
+ 4026  ./a.out
+ 4027  clear
+ 4028  ./a.out
+ 4029  gcc file_copier.c
+ 4030  clear
+ 4031  ./a.out
+ 4032  clear
+ 4033  ./a.out
+ 4034  gcc file_copier.c
+ 4035  clear
+ 4036  ./a.out
+ 4037  clear
+ 4038  ./a.out
+ 4039  clear
+ 4040  ./a.out
+ 4041  ls -l
+ 4042  gcc file_copier.c
+ 4043  clear
+ 4044  ./a.out
+ 4045  gcc file_copier.c
+ 4046  clear
+ 4047  ./a.out
+ 4048  gcc file_copier.c
+ 4049  clear
+ 4050  ./a.out
+ 4051  gcc file_copier.c
+ 4052  clear
+ 4053  ./a.out
+ 4054  gcc file_copier.c
+ 4055  clear
+ 4056  ./a.out
+ 4057  clear
+ 4058  gcc file_copier.c
+ 4059  clear
+ 4060  ./a.out
+ 4061  cd coen-146l
+ 4062  cd Lab\ 1
+ 4063  gcc file_copier.c
+ 4064  ./a.out
+ 4065  clear
+ 4066  gcc file_copier.c
+ 4067  ./a.out
+ 4068  gcc file_copier.c
+ 4069  ./a.out
+ 4070  git remote add origin https://github.com/maddiewaldie/COEN-146.git\ngit branch -M main\ngit push -u origin main
+ 4071  git init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/maddiewaldie/COEN-146.git\ngit push -u origin main
+ 4072  git status
+ 4073  git add .
+ 4074  git status
+ 4075  git commit -m "Lab 1"
+ 4076  git push
+ 4077  git push --set-upstream origin main
+ 4078  ssh mwaldie@linux.dc.engr.scu.edu
+ 4079  clear
+ 4080  cd coen-146l
+ 4081  cd Lab\ 1
+ 4082  ./a.out
+ 4083  gcc file_copier.c
+ 4084  ./a.out
+ 4085  clear
+ 4086  ./a.out
+ 4087  clear
+ 4088  ./a.out
+ 4089  ssh mwaldie@linux.dc.engr.scu.edu
+ 4090  cd Desktop
+ 4091  mkdir coen-166l
+ 4092  cd Desktop/coen-166l
+ 4093  ls
+ 4094  scp lab1-photo.png mwaldie@linux.scudc.scu.edu:/webpages/mwaldie/coen161/lab1/
+ 4095  scp lab1-photo.png mwaldie@linux.dc.engr.scu.edu:/webpages/mwaldie/coen161/lab1/
+ 4096  ssh mwaldie@linux.dc.engr.scu.edu
+ 4097  cd Lab\ 1
+ 4098  gcc file_copier.c
+ 4099  ./a.out
+ 4100  touch file4.txt
+ 4101  touch file5.txt
+ 4102  ./a.out
+ 4103  gcc file_copier.c
+ 4104  ./a.out
+ 4105  clear
+ 4106  gcc file_copier.c
+ 4107  ./a.out
+ 4108  gcc file_copier.c
+ 4109  clear
+ 4110  ./a.out
+ 4111  clear
+ 4112  gcc file_copier.c
+ 4113  ./a.out
+ 4114  ./matplotlibexample.py
+ 4115  python3 matplotlibexample.py
+ 4116  screen -L
+ 4117  clear
+[1m[3m%[23m[1m[0m                                                                                                                                                 k..en-146l/Lab 1\[0m[23m[24m[J[01;32m➜  [36mLab 1[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hhistoryclear  screen -L[9Dpython3 matplotlibexample.py[28D./[6P[20C      [20Da.out               [15Dgcc file_copier.c[17Dclear            [12D./a.outclear  gcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17Dclear            [12D./a.outgcc file_copier.c[17D./a.out          [10Dtouch file5.txt4[4C[15D./a.out        [8Dgcc file_copier.c[17Dcd Lab\ 1        [8D[9Dssh mwaldie@linux.dc.engr.scu.edu[33Dscp lab1-photo.png mwaldie@linux.dc.engr.scu.edu:/webpages/mwaldie/coen161/lab1/[47Dscudc[P[P[40C  [78Dls                                                                            [76Dcd Desktop/coen-166l[20Dmkdir [5P[9C     [15Dcd Desktop     [10Dssh mwaldie@linux.dc.engr.scu.edu[33D./a.out                          [26Dclear  ./a.outclear  ./a.outgcc file_copier.c[17D./a.out          [10Dcd Lab\ 1coen-146l[12Dclear       ssh mwaldie@linux.dc.engr.scu.edu[33Dgit push --set-upstream origin main[26D                          [27Dcommit -m "Lab 1"[17Dstatus           [11Dadd . statusinit  
+git add README.md[K
+git commit -m "first commit"[K
+git branch -M main[K
+git remote add origin https://github.com/maddiewaldie/COEN-146.git[K
+git push -u origin main[K[5A[7Cremote add origin https://github.com/maddiewaldie/COEN-146.git[1B[84Dbranch -M main[1B[14Dpush -u origin main[K[1B[K[1B[K[1B[K[5A[88C[66D./a.out                                                           [1B[K[1B[KMM[29Cgcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17Dclear            [12D./a.outgcc file_copier.c[17Dcd Lab\ 1        [8Dcoen-146l[12D./a.out     clear  gcc file_copier.c[17Dclear            [12D./a.outclear  gcc file_copier.c[17Dclear            [12D./a.outclear  gcc file_copier.c[17Dclear            [12D./a.outcd coen-146l[9DLab\ 1   [9Dgcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17Dclear            [12D./a.outgcc file_copier.c[17Dcd Lab\ 1        [8Dcoen-146l[12D./a.out     clear  gcc file_copier.c[17Dclear            [12D./a.outclear  gcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17Dls -l            [12D./a.outclear  ./a.outclear  ./a.outclear  gcc file_copier.c[17D./a.out          [10Dclear  ./a.outclear  gcc file_copier.c[17D./a.out          [10Dclear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outclear  cat file1.txt[13Dls           [11Dclearcd Lab\ 1l[2C 1 coen-146l[12D./a.out     clear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outgcc file_copier.c[17Dclear            [12D./a.outgcc file_copier.c[17Dclear            [12D./a.outclear  ./a.outclear  gcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17Dclear            [12D./a.outclear  ./a.outclear  gcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17Dclear            [12Dgcc file_copier.c[17Dclear            [12Dgcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17D./a.out          [10Dtouch file2.txt[11D[P[10C [10Dh file1.txt[15Dcat[P[P[10C  [13Dclear        [8D./a.outgcc file_copier.c[17Dclear            [12Dgcc file_copier.c[17Dclear            [12Dcd Lab\ 1[9Dssh mwaldie@linux.dc.engr.scu.edu[33Dclear                            [28Dssh linux.dc.engr.scu.edu [26Dclear                    [20Dmkdir coen-161[14Dbrew uninstall powerlevel10k[28Dcd Desktop                  [18D[10Dclear     vim ~/.zshrc[12Dbrew uninstall powerlevel10k[28Dgit push                    [20Dcommit -m "Last lab"[20Dadd .               [15Dstatus[10Dcd coen177[10Dgit status[10Dcd coen122[10Dgit push  commit -m "remaining assignments"[33Dadd .                            [28Dstatus[10Dls        [8Dcd csci181[10Dgit push  commit -m "Updated based on QA feedback"[40Dadd .                                   [35Dstatus[10Dcd Spokin-iOS[13Dgit status   push  commit -m "Added logic to keep position of quickfilter bar"[59Dadd .                                                      [54Dstatus[10Dcd Spokin-iOS[13Dgit pull     checkout master[15Dbranch         [9Dpull  [8Dcd SpokinModelFramework[23Dpod install            [12D[11Dgit checkout mads/newsfeed-quickfilters[35Dstash                              [30Dcheckout mads/newsfeed-quickfilters[39Dpod install                            [28D[11Dgit checkout mads/newsfeed-carousel[31Dpush                           [27D commit -m "changed version num"[31Dstatus                         [25Dadd . checkout mads/newsfeed-carousels[32Dpush                            [28Dcommit -m "Fixed preferences"[29Dadd .                        [24Dstatus[10Dpod install[11Dgit checkout mads/newsfeed-quickfilters[35Dpush                               [31Dcommit -m "Started fixing review carousel"[42Dadd .                                     [37Dstatus[10Dpod install[11Dgit checkout mads/newsfeed-carousel[31Dstatus                         [25Dpush  commit -m "Incremented version number"[38Dadd .                                 [33Dstatuspush  commit -m "Fixed bugs in quickfilters"[38Dadd .                                 [33Dstatus[10Dpod install[11Dgit checkout mads/newsfeed-quickfilters[35Dpush                               [31Dcommit -m "updated version no"[30Dadd .                         [25Dstatuspush  commit -m "Fixed issue with map"[32Dadd .                           [27Dstatusadd . statuspull  [8Dcd Spokin-iOS    [9Dgit push commit -m "Open to correct map location"[40Dadd .                                   [35Dstatus[10Dcd Spokin-iOS[13Dgit push     statuscommit -m "Fix merge conflicts"[31Dadd .                          [26Dstatus[10Dpod install[11Dgit commit -m "Merge conflicts"[27Dadd .                      [22Dstatuscommit -m "Merge conflicts"[27Dstatus                     [21Dadd . statuspull origin master[18Dstatus            [12Dpull origin master[22Dcd Spokin-iOS         [9D[13Dgit push     commit -m "Added see more button to review card"[48Dadd .                                           [43Dstatus[10Dcd Spokin-iOS[13Dgit push     commit -m "Added share button"[30Dadd .                         [25D[9Dgs[2C     gitgit status[10D push     commit -m "Fixed shadow for photos & text color"[48Dadd .                                           [43Dstatus[10Dpod install[11Dgit status checkout mads/newsfeed-carousel[31Dstatus                         [25Dpush  commit -m "Incremented version number"[38Dadd .                                 [33Dstatuspush  commit -m "Made font larger & bar less narrow"[46Dadd .                                         [41Dstatus[10Dpod install[11Dgit checkout mads/newsfeed-quickfilters[39Dcd Spokin-iOS                          [26D[13Dgit push     commit -m "Added muxes"[23Dadd .                  [18Dstatuspull  shcommit -m "incremented version number"[38Dadd .                                 [33Dstatuscommit -m "Functioning mock review carousel"[44Dadd .                                       [39Dstatus[10Dcd Spokin-iOS[13Dgit push      commit -m "Modified testbench"[30Dadd .                         [25Dstatuspush  commit -m "Started testbench"[29Dadd .                        [24Dpull shcommit -m "Incremented version num"[35Dadd .                              [30Dstatuspush  commit -m "Working spokin guides carousel"[42Dadd .                                     [37Dstatus[10Dcd Spokin-iOS[13Dgit push     commit -m "Incremented version #"[33Dadd .                            [28Dstatuspush  commit -m "Added share a review card"[37Dadd .                                [32Dstatuscommit -m "Fixed constraints & connections"[43Dadd .                                      [38Dstatus[10Dpod install[11Dgit checkout mads/newsfeed-carousel[35Dcd Spokin-iOS                      [22D[13Dgit pull     checkout master[15Dpush --set-upstream origin mads/4349[31D                               [32Dcommit -m "Fixed bug"[21Dadd .                [16Dstatuscheckout -b mads/4349[21Dpull                 [17Dcheckout master[15Dpush --set-upstream origin mads/4133[31D                               [32Dcommit -m "Added test"[22Dadd .                 [17Dstatus[10Dpod install[11Dgit pull origin master[18Dcheckout mads/4133[18Dpull              [14Dcheckout master[15Dstatus         [9D[10Dcd Spokin-iOS[13Dgit push     commit -m "Added connections for review card"[45Dadd .                                        [40Dstatus[10Dcd Spokin-iOS[13Dgit push     commit -m "Fully working mock places to explore carousel"[57Dadd .                                                    [52Dstatus[10Dcd Spokin-iOS[13Dpod install  [11Dgit checkout mads/newsfeed-carousel[30Dommit -m "changed version #"  [29Dpush                         [25Dcommit -m "changed version #"[29Dadd .                        [24Dstatuscheckout mads/newsfeed-carousel[35Dcd Spokin-iOS                      [22D[13Dgit push     commit -m "Adjusted preferences"[21D"                    [20D[12Dadd .       status[10Dcd Spokin-iOS[13Dpod install  [11Dgit checkout mads/newsfeed-quickfilters[39Dcd Spokin-iOS                          [26D[13Dgit push     commit -m "Labs 7 & 8"[22Dadd .                 [17Dstatus[10Dmake      clearsh step5.sh[11Dclear      sh step4.sh[11Dclear      sh step3.sh[11Dclear      sh step2.sh1-2.sh[13D[3P[10C   [10Dsh run.sh [9Dcd coen177/Lab8[15Dsh run.sh      [9Dclear    sh run.sh[9Dclear    ck[3Csh run.sh[9Dclear    sh run.sh[9Dcd coen177/Lab8[15Dsh run.sh      [9Dclear    sh step5.sh[11Dgcc step5.c -o step5[20Dsh step4.sh         [9D[11Dgcc step4.c -o step4[20Dclear               [15Dsh step3.sh[11Dgcc step3.c -o step3[20Dsh step2.sh         [9D[11Dgcc step2.c -o step2[8D        [9D1[2C[11Dgit push   commit -m "Fixed pc"[20Dadd .               [15Dpush commit -m "Added program counter"[33Dadd .                            [28Dstatuspush  commit -m "Added sign extend module"[36Dadd .                               [31Dstatuspush  commit -m "Fixed alu"[21Dadd .                [16Dstatuspush  commit -m "Buffer, IM, Reg"[27Dpull                       [23Dstatusadd . statusadd . [9Dgu[2Cstatus[10Dgi[2Creset HEAD~1[12Dstatus      commit -m "Added files for buffers"[35Dadd .                              [30Dstatuspush  commit -m "Fixed or gate"[25Dadd .                    [20Dpush commit -m "And and or gates"[28Dadd .                       [23Dpush commit -m "control unit"[24Dadd .                   [19Dpush commit -m "Added more files"[28Dadd .                       [23Dpush commit -m "ALU"[15Dadd .          [10Dpush commit -m "control unit"[24Dadd .                   [19D[9Decho "# COEN-122" >> README.md[1Bgit init[K[1Bgit add README.md[K[1Bgit commit -m "first commit"[K[1Bgit branch -M main[K[1Bgit remote add origin https://github.com/maddiewaldie/COEN-122.git[K
+git push -u origin main[K[6A[29C[30Dpod install                   [1B[K[1B[K[1B[K[1B[K[1B[K[1B[K[6A[33C[11Dgit pull   checkout master[15Dpush           [11Dcommit -m "Changed version number"[34Dadd .                             [29Dstatuspush  commit -m "Added correct icon for pop up"[41Dadd .                                    [36Dstatus[10Dpod install[11Dgit checkout mads/newsfeed-quickfilters[39Dpod install                            [28D[11Dgit status checkout mads/newsfeed-carousel[31Dstatus                         [25D[10Dcd Spokin-iOS[13Dclear        [8Dsh step3.sh[11Dgcc step3.c -o step3[20Dsh step2.sh         [9D[11Dgcc step2.c -o step2[8Dstep2   [17Dclear            [12Dgcc step2.c[11Dclear      sh step1-2.sh.sh  -2.sh.sh  [11Dclear      cd Lab8..  clearsh Lab7-Step4.sh[16Dcd coen177/Lab7 [15Dgit status     push  commit -m "Fixed colleges not always showing up"[48Dadd .                                           [43Dstatuspush  commit -m "Added pop up for quick filters"[42Dadd .                                     [37Dstatus[10Dpod install[11Dgit checkout mads/newsfeed-quickfilters[39Dcd Spokin-iOS                          [26D[13Dgit push     commit -m "Added class for share a review card"[47Dadd .                                          [42Dstatuspush  commit -m "Trying to get spokin guides carousel to show up"[59Dadd .                                                      [54Dstatus[10Dcd Spokin-iOS[13Dsh Lab7-Step4.sh[16Dcd coen177/Lab7 [15Dsh Lab7-Step4.sh[16D./a.out 1000 1000[17Dgcc Lab7-Step1.c [16Dcd Lab7         [9Dcoen177[10Dclear     sh Lab7-Step4.sh[16Dcd[5C         [9Dcoen177[10Dclear     git pushcommit -m "Got places to explore carousel to show up in the newsfeed"[69Dadd .                                                                [64Dstatus[10Dcd Spokin-iOS    [9Dgit push commit -m "Added mock carousel to newsfeed :)"[46Dadd .                                         [41Dstatuspush  commit -m "Added Share a Review card to the carousel"[53Dadd .                                                [48Dstatus[10Dcd Spokin-iOS[13Dgit push     status[10Dcd Spokin-iOS[13Dgit commit -m "Trying to get carousel to show up in newsfeed"[57Dadd .                                                    [52Dstatus[10Dcd Spokin-iOS[13Dclear        [8Dbash Lab7-Step4.sh[18D./a.out 100 100   [15Dgcc Lab7-Step1.c[16D./a.out 10000 100[17Dgcc Lab7-Step1.c [16D./a.out 10000 100[17Dclear            [12Dbash Lab7-Step4.sh[18D./a.out 100 100   [15Dgcc Lab7-Step1.c[16Dclear           [11Dbash Lab7-Step4.sh[18Dcd Lab7           [11Dcoen177[10Dclear     bash Lab7-Step4.sh[18Dclear             [13Dbash Lab7-Step4.sh[18Dmake              [14Dbash Lab7-Step4.sh[18Dmake              [14Dbash Lab7-Step4.sh[18Dmake              [14Dbash Lab7-Step4.sh[18D./a.out 10000 10000[19Dgcc Lab7-Step1.c   [16D./a.out 1000 1000  [15Dgcc Lab7-Step1.c[16D./a.out 1000 10 [15Dbash Lab7-Step4.sh[18D./a.out 500 10    1[5C      gcc Lab7-Step1.c[16Dclear           [11Dbash Lab7-Step4.sh[18Dmake              [14Dcleargit status[10Dcd Lab7   ..  clearpod install[11Dgit checkout mads/newsfeed-carousel[20Dster                [16D-b mads/4133[21Dpull                 [17Dcheckout master[15Dpush --set-upstream origin mads/4131[31D                               [32Dcommit -m "Added test"[22Dadd .                 [17Dstatus[10Dpod install --repo-update[13D             [14D[11Dgit status checkout -b mads/4131[21Dpull                 [17Dcheckout master[15Dpush           [11Dcommit -m "incremented version number"[38Dstatus                                [32Dadd . statuscheckout master[19Dpod install        [8D[11Dgit checkout mads/newsfeed-quickfilters[35Dstatus                             [29Dpush  commit -m "Added code for review & spokin guide carousels"[58Dadd .                                                     [53Dstatuspush  commit -m "Added files for spokin guide & review carousel components - they're empty right now, though"[103Dadd .                                                                                                  [98Dstatuspush  statuscommit -m "Added storyboards for spokin guide carousel & review carousel"[73Dadd .                                                                    [68Dstatus[10Dcd Spokin-iOS[13Dgit push     commit -m "Finished v1 of places to explore carousel class & started spokin guides carousel[1B"[KM[116C[91Dadd .                                                                                      [1B[KM[31Cstatusadd . status[10Dpod install[11Dgit checkout mads/newsfeed-carousel[31Dpull                           [27Dcheckout master[19Dcd Spokin-iOS      [13Dgit push     commit -m "Fix issue where top line of top card is blocked by quickfilter bar & Make point on pop up point to the quickfilter bar"[KM[15Cadd .[K[1B[KM[31Cstatus[10Dcd Spokin-iOS[13Dsetup vmware [12Dpython3 hw5.py[14Dclear         [9Dpython3 hw5.py[14Dclear         [9Dpython3 hw5.py[14Dclear         [9Dpython3 hw5.py[14Dclear         [9Dgit pushcommit -m "Updated version #"[29Dadd .                        [24Dstatuspush  commit -m "Fixed cruises & colleges sometimes being cut off"[60Dadd .                                                       [55Dstatus[10Dpod install[11Dgit status checkout mads/newsfeed-quickfilters[39Dcd Spokin-iOS                          [26D[13Dpod install  [11Dgit pull   checkout master[19Dcd Spokin-iOS      [13Dgit push     statuscommit -m "Added pop up for quickfilters"[41Dadd .                                    [36Dstatusadd . status[10Dcd Spokin-iOS[13Dgit status   [10Dpython3 hw4-sha3.py[19D./[2Cread           [11Dmilk4 32clear  ./milk1cd Lab5coen177[10D./5       43clear./thread[8Dclear   ./5  43clear./5  4clear./4  make./4 makeclear./4  make./4 make./4 543clear./milk3213    cd Lab5coen177[10Dpython3 hw4-sha3.py[19Dclear              [14Dpython3 hw4-sha3.py[19Dclear              [14Dpython3 hw4-sha3.py[19Dclear              [14Dpython3 hw4-sha3.py[19Dclear              [14Dpython3 hw4-sha3.py[19Dclear              [14Dpython3 hw4-sha3.py[19Dclear              [14Dpython3 hw4-sha3.py[19Dclear              [14Dpython3 hw4-sha3.py[13D[P[12C [18Dclear             [13Dgit pushcommit -m "Lab 5"[17Dadd .            [12Dstatus[10Dcd coen177[10D./5       sh Lab5.sh[10Dclear     sh Lab5.sh[10Dcd[5C   coen177[10Dmake      ./3 gcc Lab5-Step3.c -o 3[21Dmake                 [17Dcd Lab5git checkout master[15Dstatus         [9D[10Dcd Spokin-iOS[13Dpod install  [11Dcd Spokin-iOS[13Dpod install  [11Dcd Spokin  [9Dpod install[11Dgit pull origin master -X theirs[28Dstash                       [23Dpull origin master -X theirs[28Dstatus                      [22Dta[2Creset --hard HEAD[17Dstatus           [11Dreset HEAD[10Dstatus    pull -X theirs[9Dorigin master[18Dcheckout mads/newsfeed-quickfilters[35Dpull                               [31Dcheckout master[15Dpush           [11Dcommit -m "incremented version #"[33Dadd .                            [28Dstatuscheckout master[19Dcd Spokin-iOS      [13Dgit checkout master[15Dpush           [11Dcommit -m "Fix issue with Near Me + Similar Allergies getting truncated in quickfilter bar when selected"[105Dadd .                                                                                                    [100Dstatuspush  commit -m "got filters working"[31Dadd .                          [26Dstatus[10Dcd Spokin-iOS[13Dpython3 hw4-sha3.py[19Dcd csci181         [9D[10Dpython3 hw4-sha3.py[19Dclear              [14Dpython3 hw4-sha3.py[19Dclear              [14Dpython3 hw4-sha3.py[19Dclear              [14Dlist the ten bits aout[3][1][15 . . . 24].[42Dgit push                                  [34Dcommit -m "hw for csci 181"[27Dadd .                      [22Dstatus[10Decho "# CSCI-181" >> README.md[1Bgit init[K[1Bgit add README.md[K[1Bgit commit -m "first commit"[K[1Bgit branch -M main[K[1Bgit remote add origin https://github.com/maddiewaldie/CSCI-181.git[K[1Bgit push -u origin main[K[6A[29C[30Dls                            [1B[K[1B[K[1B[K[1B[K[1B[K[1B[K[6A[24Ccd csci181..     git pushcommit -m "Lab 3 & 4"[21Dadd .                [16Dstatus[10Dcd coen177[10D./1       cd Lab4coen177[10Dgit push  commit -m "Fixed button sizing for accesibility font sizes"[59Dadd .                                                      [54Dstatus[10Dpod install[11Dgit checkout mads/newsfeed-quickfilters[39Dcd Spokin-iOS                          [26D[13Dgit pull     checkout master[15Dpush --set-upstream origin mads/4132[31D                               [32Dcommit -m "Added test for random emoji"[39Dstatus                                 [33Dadd . statuscheckout -b mads/4132[12D[3P[9C   [18Dstatus            [12D[10Dpod install[11Dgit pull   checkout master[15Dpull master    [9Dsh --set-upstream origin mads/4193[31D                               [32Dcommit -m "Split up override func configure(with item: FeedViewModelRowItem) into smaller functions within class MetadataTableViewCell"[KM[10Cadd .[K[1B[KM[31Cstatuscheckout -b mads/4193[25Dpod install              [14D[11Dgit pull   checkout master[15Dpush           [11Dcommit -m "modified podfile"[28Dadd .                       [23Dstatus[10Dpod install[11Dgit status push --set-upstream origin mads/4194[31D                               [32Dcommit -m "Broke mapView function into smaller functions"[61Dgs[2C                                                         [58Dgit add .statuscheckout -b mads/4194[21Dstatus               [15Dpull  checkout master[19Dcd Spokin-iOS      [13Dgit push     commit -m "initial carousel design"[35Dadd .                              [30Dstatus[10Dcd Spokin-iOS[13Dpod install  [11Dcd Spokin-iOS[13Dgit pull origin master[18Dcheckout mads/newsfeed-carousel[31Dpull                           [27Dcheckout master[15Dpush --set-upstream origin mads/4136[31D                               [32Dcommit -m "Added tests for all specialties"[43Dadd .                                      [38Dstatus[10Dpod install[11Dgit checkout -b mads/4136[12Dmaster      [15Dpush           [11Dcommit -m "Also added tests for caregivers"[43Dadd .                                      [38Dstatus[10Dpod install[11Dgit status checkout mads/4128ster   [19Dclear              [14Dgit pull mads/4128[14Dcheckout -b mads/4135[21Dpull                 [17Dcheckout master[15Dpush --set-upstream origin mads/4127[31D                               [32Dcommit -m "Added ZipCode test"[30Dstatus                        [24Dadd . statuscheckout -b mads/4127[12D[3P[9C   [18Dpull              [14Dcheckout masterds/newsfeed-quickfilters[35Dpull                               [31Dcheckout master[15Dpush           [11Dcommit -m "Fixed glitch of preferences buttons"[47Dadd .                                          [42Dstatuspush  commit -m "Fixed glitch of preferences buttons"[47Dadd .                                          [42Dstatuspush  commit -m "Added flag for filters on/off"[41Dadd .                                    [36Dstatuspush  commit -m "Added flag for filters on/off"[41Dadd .                                    [36Dstatusadd . status[10Dpod update[10Dgit checkout mads/newsfeed-quickfilters[35Dstash                              [30Dcheckout mads/newsfeed-quickfilters[39Dpod update                             [29D[10Dcd ../Spokin-iOS[16Dgit pull        [8Dcheckout BaseRefactor[21Dfetch origin         [9D[16Dcd Pusher       [9Dgit fetch origin[12Dclone https://github.com/Spokin/Pusher.git[46Dsh Lab4.sh                                    [36D[10Dclear     sh Lab4.sh[10Dmake      clearsh Lab4.sh[10Dmake      clearsh Lab4.sh[10Dmake      clear./1  cd Lab4./1    clearls   cd coen177Spokin-iOS[13Dpod install  [11Dgit pull   checkout master[19Dcd ../Spokin-iOS   [16Dgit push --set-upstream origin mads/swiftlint[36D                                    [37Dstatuscommit -m "Enabled swiftlint github workflow"[45Dstatus                                       [39Dadd . status[10Dpod installdeintegrate[11Dinstall     [10Dclear     pod install[11Dclear      ./5 2 3 23[9Dsh Lab4.sh[10Dclear     ./1  makeclearpod install[11Dgit status checkout -b mads/swiftlint[26Dstatus                    [20D[10Dcd SpokinModelFramework[23Dgit clone https://github.com/Spokin/SpokinModelFramework.git[60D./a.out 2 3 2                                               [47D[13Dgcc Lab4-Step5.c[16D./a.out 2 3 2   [11D5 2 2[3C   a.out[2C 3 22[2C[11D5 2 2[3C   [9Dgcc Lab4-Step5.c[16D./a.out 2 2 2   [11D5 2 2[3C   [9Dgcc Lab4-Step5.c[16Dclear           [11Dgit statuspush  commit -m "Added tests for parents of 2 & 3 children"[53Dadd .                                                [48Dstatus[10Dcd Spokin-iOS[13Dgit push     commit -m "Created test for parent w/ 1 child w/ allergies"[59Dadd .                                                      [54Dstatus[10Dcd Spokin-iOS[13Dpod install  [11Dgit push   commit -m "merge"[17Dadd .            [12Dstatusmerge -X theirs[15Dpull origin master[16Dsh              [14Dcommit -m "modified pod file"[29Dadd .                        [24Dstatupull origin master[18Dconfig pull.rebase false[24Dpull origin master      [18Dstatus            [12D[10Dpod install[11Dgit checkout mads/4128[22Dcd Spokin-iOS         [9D[13Dpython3 hw3-problem1.py[23Dclear                  [18Dpython3 hw3-problem1.py[23Dclear                  [18Dpython3 hw3-problem1.py[23Dclear                  [18Dpython3 hw3-problem1.py[23Dclear                  [18Dpython3 hw3-problem1.py[23Dclear                  [18Dpython3 hw3-problem1.py[17D[P[16C [22D./a.out 30 30 30      [8D2 2 2   [13Dgcc Lab4-Step5.c[16D./a.out 2 2 2   [13Dgcc Lab4-Step5.c[16D./a.out 2 2 2   [13Dgcc Lab4-Step5.c[16D./a.out 2 2 2   [13Dgcc Lab4-Step5.c[16Dclear           [11Dgcc Lab4-Step5.c[16D./a.out 2 2 2   [13Dgcc Lab4-Step4.c[16D./a.out 2 2 2   [13Dgcc Lab4-Step4.c[16Dclear           [11D./a.out 2 2 2      30 30 30[16Dgcc Lab4-Step4.c[16D./a.out 30 30 30[16Dgcc Lab4-Step4.c[16D./a.out 30 30 30[16Dgcc Lab4-Step4.c[16D./a.out 30 30 30[8D2 2 2   [13Dgcc Lab4-Step4.c[16Dclear           [11D./a.out 2 2 2[11D4 2 2[3C   [9Dgcc Lab4-Step4.c[16Dclear           [11Dgcc Lab4-Step4.c[16D./a.out 2 3 2   [13Dgcc Lab4-Step4.c[16D./a.out 2 3 2        gcc Lab4-Step4.c[16D./a.out         [9Dgcc Lab4-Step4.c[16D./a.out         [9Dgcc Lab4-Step4.c[16Dclear           [11Dgcc Lab4-Step4.c[16D./a.out         [9Dclear  gcc Lab4-Step4.c[16Dclear           [11Dgcc Lab4-Step4.c[16Dclear           [11Dgcc Lab4-Step4.c[16Dclear           [11Dgcc Lab4-Step4.c[16Dclear           [11Dgcc Lab4-Step4.c[16Dclear           [11Dgcc Lab4-Step4.c[16Dclear           [11Dgcc Lab4-Step4.c[16Dclear           [11Dgcc Lab4-Step4.c[16Dclear           [11Dgcc Lab4-Step4.c[16Dclear           [11Dgcc Lab4-Step4.c[16D./a.out         [9Dgcc Lab4-Step1.c[16Dcd ../Lab4      [10Dclear     git pullcheckout master[15Dpush           [11Dcommit -m "Added API call with agreed upon querystrings for backend filtering"[78Dadd .                                                                         [73Dstatus[10Dpod install[11Dgit status  [?2004l[1B[1m[3m%[23m[1m[0m                                                                                                                                                 k..en-146l/Lab 1\[0m[23m[24m[J[01;31m➜  [36mLab 1[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[0m[23m[24m[J[01;31m➜  [36mLab 1[00m [01;34mgit:([31mmain[34m) [33m✗[00m [0m[23m[24m[J[01;31m➜  [36mLab 1[00m [01;34mgit:([31mmain[34m) [33m✗[00m historyclear  screen -L[9Dpython3 matplotlibexample.py[28D./[6P[20C      [22Dpython3 matplotlibexample.py[?1l>[?2004l
+kpython3\[1]    67035 segmentation fault  python3 matplotlibexample.py
+[1m[3m%[23m[1m[0m                                                                                                                                                 k..en-146l/Lab 1\[0m[23m[24m[J[01;31m➜  [36mLab 1[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hpython3 matplotlibexample.py[?1l>[?2004l
+kpython3\[1]    67190 segmentation fault  python3 matplotlibexample.py
+[1m[3m%[23m[1m[0m                                                                                                                                                 k..en-146l/Lab 1\[0m[23m[24m[J[01;31m➜  [36mLab 1[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hpython3 matplotlibexample.py[28Dhistory                     [21Dclear  screen -L[9Dpython3 matplotlibexample.py[28D./[6P[20C      [20Da.out               [15Dgcc file_copier.c[17Dclear            [12D./a.outclear  gcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17Dclear            [12D./a.outgcc file_copier.c[17D./a.out          [10Dtouch file5.txt4[4C[15D./a.out        [8Dgcc file_copier.c[17Dcd Lab\ 1        [8D[9Dssh mwaldie@linux.dc.engr.scu.edu[33Dscp lab1-photo.png mwaldie@linux.dc.engr.scu.edu:/webpages/mwaldie/coen161/lab1/[47Dscudc[P[P[40C  [78Dls                                                                            [76Dcd Desktop/coen-166l[20Dmkdir [5P[9C     [15Dcd Desktop     [10Dssh mwaldie@linux.dc.engr.scu.edu[33D./a.out                          [26Dclear  ./a.outclear  ./a.outgcc file_copier.c[17D./a.out          [10Dcd Lab\ 1coen-146l[12Dclear       ssh mwaldie@linux.dc.engr.scu.edu[33Dgit push --set-upstream origin main[26D                          [27Dcommit -m "Lab 1"[17Dstatus           [11Dadd . statusinit  
+git add README.md[K
+git commit -m "first commit"[K
+git branch -M main[K
+git remote add origin https://github.com/maddiewaldie/COEN-146.git[K
+git push -u origin main[K[5A[7Cremote add origin https://github.com/maddiewaldie/COEN-146.git[1B[84Dbranch -M main[1B[14Dpush -u origin main[K[1B[K[1B[K[1B[K[5A[88C[66D./a.out                                                           [1B[K[1B[KMM[29Cgcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17Dclear            [12D./a.outgcc file_copier.c[17Dcd Lab\ 1        [8Dcoen-146l[12D./a.out     clear  gcc file_copier.c[17Dclear            [12D./a.outclear  gcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17Dls -l            [12D./a.outclear  ./a.outclear  ./a.outclear  gcc file_copier.c[17D./a.out          [10Dclear  ./a.outclear  gcc file_copier.c[17D./a.out          [10Dclear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outclear  ./a.outclear  [?1l>[?2004l[1Bkclear\[H[J[1m[3m%[23m[1m[0m                                                                                                                                                 k..en-146l/Lab 1\[0m[23m[24m[J[01;32m➜  [36mLab 1[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hclearpython3 matplotlibexample.py[28Dhistory                     [21Dclear  screen -L[9Dpython3 matplotlibexample.py[28D./[6P[20C      [20Da.out               [15Dgcc file_copier.c[17Dclear            [12D./a.outclear  gcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17Dclear            [12D./a.outgcc file_copier.c[17D./a.out          [10Dtouch file5.txt4[4C[15D./a.out        [8Dgcc file_copier.c[17Dcd Lab\ 1        [8D[9Dssh mwaldie@linux.dc.engr.scu.edu[33Dscp lab1-photo.png mwaldie@linux.dc.engr.scu.edu:/webpages/mwaldie/coen161/lab1/[47Dscudc[P[P[40C  [78Dls                                                                            [76Dcd Desktop/coen-166l[20Dmkdir [5P[9C     [15Dcd Desktop     [10Dssh mwaldie@linux.dc.engr.scu.edu[33D./a.out                          [26Dclear  ./a.outclear  ./a.outgcc file_copier.c[17D./a.out          [10Dcd Lab\ 1coen-146l[12Dclear       ssh mwaldie@linux.dc.engr.scu.edu[33Dgit push --set-upstream origin main[26D                          [27Dcommit -m "Lab 1"[17Dstatus           [11Dadd . statusinit  
+git add README.md[K
+git commit -m "first commit"[K
+git branch -M main[K
+git remote add origin https://github.com/maddiewaldie/COEN-146.git[K
+git push -u origin main[K[5A[7Cremote add origin https://github.com/maddiewaldie/COEN-146.git[1B[84Dbranch -M main[1B[14Dpush -u origin main[K[1B[K[1B[K[1B[K[5A[88C[66D./a.out                                                           [1B[K[1B[KMM[29Cgcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17Dclear            [12D./a.outgcc file_copier.c[17Dcd Lab\ 1        [8Dcoen-146l[12D./a.out     clear  gcc file_copier.c[17Dclear            [12D./a.outclear  gcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17D./a.out          [10Dclear  ./a.outgcc file_copier.c[17Dclear            [12D./a.outgcc file_copier.c[17Dclear            [12D./a.outgcc file_copier.c[17Dclear            [12D./a.outgcc file_copier.c[17Dclear            [12D./a.outclear  gcc file_copier.c[17Dclear            [12D./a.outcd coen-146l[9DLab\ 1   [9Dgcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17D./a.out          [10Dgit remote add origin https://github.com/maddiewaldie/COEN-146.git[1Bgit branch -M main[K[1Bgit push -u origin main[KMM[65C[62Dinit                                                          [1B[84Dadd README.md[K[1B[13Dcommit -m "first commit"[1Bgit branch -M main[K[1Bgit remote add origin https://github.com/maddiewaldie/COEN-146.git[K[1Bgit push -u origin main[K[5A[7Cstatus[1B[K[1B[K[1B[K[1B[K[1B[K[5A[32Cadd . statuscommit -m "Lab 1"[17Dpush             [13D --set-upstream origin main[35Dssh mwaldie@linux.dc.engr.scu.edu  [33Dclear                            [28Dcd coen-146l[9DLab\ 1   [9D./a.out  gcc file_copier.c[17D./a.out          [10Dclear  ./a.outclear  ./a.outssh mwaldie@linux.dc.engr.scu.edu[33Dcd Desktop                       [23D[10Dmkdir coen-166l[15Dcd Desktop/coen-166l[20Dls                  [18Dscp lab1-photo.png mwaldie@linux.scudc.scu.edu:/webpages/mwaldie/coen161/lab1/[45Ddc.engr.scu.edu:/webpages/mwaldie/coen161/lab1/[80Dssh[15P[30C                                               [47D[33Dcd Lab\ 1                        [24D[9Dgcc file_copier.c[17D./a.out          [10Dtouch file4.txt5[4C[15D./a.out        [8Dgcc file_copier.c[17D./a.out          [10Dclear  gcc file_copier.c[17D./a.out          [10Dgcc file_copier.c[17Dclear            [12D./a.outclear  gcc file_copier.c[17D./a.out          [10Dmatplotlibexample.py[22Dpython3 matplotlibexample.py[28Dscreen -L                   [19D[9Dclear    historypython3 matplotlibexample.py[28Dclear                       [23D     
