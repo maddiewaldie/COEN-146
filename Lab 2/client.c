@@ -47,6 +47,7 @@ int main(int argc, char *argv[]) {
         perror("Socket creation failed");
         return 1;
     }
+    printf("Successfully created socket.\n");
 
     // Initialize server address structure
     serv_addr.sin_family = AF_INET;
@@ -55,6 +56,7 @@ int main(int argc, char *argv[]) {
         perror("Invalid server IP address");
         return 1;
     }
+    printf("Successfully initialized server address structure.\n");
 
     // Connect to the server
     if (connect(sockfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) < 0) {
@@ -62,12 +64,19 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
+    printf("Successfully connected to the server.\n");
+
+    // Send the destination filename to the server
+    send(sockfd, argv[4], strlen(argv[4]), 0);
+    printf("Successfully sent the destination filename to the server.\n");
+
     // Open the source file for reading
     source_file = fopen(argv[3], "rb");
     if (!source_file) {
         perror("Input file opening failed");
         return 1;
     }
+    printf("Successfully opened the source file for reading.\n");
 
     // Read and send data to the server in chunks
     ssize_t bytes_read;
@@ -75,9 +84,13 @@ int main(int argc, char *argv[]) {
         send(sockfd, file_buff, bytes_read, 0);
     }
 
+    printf("Successfully read and sent data to the server in chunks.\n");
+
     // Close the input file and the socket
     fclose(source_file);
     close(sockfd);
+
+    printf("Successfully closed the input file and the socket.\n");
 
     printf("File %s sent to the server\n", argv[3]);
     return 0;

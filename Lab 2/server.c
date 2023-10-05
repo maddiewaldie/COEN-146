@@ -37,6 +37,7 @@ int main(int argc, char *argv[]) {
         perror("Socket creation failed");
         return 1;
     }
+    printf("Successfully created a socket.\n");
 
     // Initialize server address structure
     memset(&serv_addr, 0, sizeof(serv_addr));
@@ -50,11 +51,15 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
+    printf("Successfully bound socket to the network address and port.\n");
+
     // Listen for incoming connections
     if (listen(socket_fd, 5) < 0) {
         perror("Listening failed");
         return 1;
     }
+
+    printf("Successfully listening for incoming connections.\n");
 
     // Accept a client connection
     connection_fd = accept(socket_fd, (struct sockaddr *)NULL, NULL);
@@ -63,9 +68,19 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
+    char dest_filename[1024]; // Assuming a maximum filename length of 1024 characters
+
+    net_bytes_read = recv(connection_fd, dest_filename, sizeof(dest_filename), 0);
+    if (net_bytes_read <= 0) {
+        perror("Failed to receive the destination filename");
+        return 1;
+    }
+
+    // Null-terminate the received filename
+    dest_filename[net_bytes_read] = '\0';
+
     // Create and open the destination file for writing
-    // printf(argv[4]);
-    dest_file = fopen(argv[2], "wb");
+    dest_file = fopen(dest_filename, "wb");
     if (!dest_file) {
         perror("Output file opening failed");
         return 1;
@@ -78,6 +93,7 @@ int main(int argc, char *argv[]) {
 
     // Send "received!" confirmation to the client
     send(connection_fd, message, strlen(message), 0);
+    printf("Successfully sent received confirmation to the client.\n");
 
     // Close the destination file and the connection
     fclose(dest_file);
