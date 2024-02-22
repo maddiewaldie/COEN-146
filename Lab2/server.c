@@ -86,20 +86,24 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    // Receive data from the client and write it to the destination file
-    while ((net_bytes_read = recv(connection_fd, net_buff, sizeof(net_buff), 0)) > 0) {
-        fwrite(net_buff, 1, net_bytes_read, dest_file);
-    }
+    printf("Successfully received file name from the client.\n");
 
     // Send "received!" confirmation to the client
-    send(connection_fd, message, strlen(message), 0);
+    write(connection_fd, message, strlen(message));
     printf("Successfully sent received confirmation to the client.\n");
+
+    // Receive data from the client and write it to the destination file
+    while ((net_bytes_read = read(connection_fd, net_buff, sizeof(net_buff))) > 0) {
+        fwrite(net_buff, 1, net_bytes_read, dest_file);
+    }
+    printf("Successfully wrote data from the client to the destination file.\n");
 
     // Close the destination file and the connection
     fclose(dest_file);
     close(connection_fd);
     close(socket_fd);
 
-    printf("File received and saved as %s\n", argv[2]);
+    printf("File received and saved as %s\n", dest_filename);
     return 0;
 }
+

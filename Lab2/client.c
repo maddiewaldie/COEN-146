@@ -67,7 +67,7 @@ int main(int argc, char *argv[]) {
     printf("Successfully connected to the server.\n");
 
     // Send the destination filename to the server
-    send(sockfd, argv[4], strlen(argv[4]), 0);
+    write(sockfd, argv[4], strlen(argv[4]));
     printf("Successfully sent the destination filename to the server.\n");
 
     // Open the source file for reading
@@ -81,7 +81,7 @@ int main(int argc, char *argv[]) {
     // Read and send data to the server in chunks
     ssize_t bytes_read;
     while ((bytes_read = fread(file_buff, 1, SIZE, source_file)) > 0) {
-        send(sockfd, file_buff, bytes_read, 0);
+        write(sockfd, file_buff, bytes_read);
     }
 
     printf("Successfully read and sent data to the server in chunks.\n");
